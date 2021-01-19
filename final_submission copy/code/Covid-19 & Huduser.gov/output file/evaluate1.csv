@@ -1,0 +1,3230 @@
+Adams,NE,1,1,1,1,1
+Alameda,CA,1,1,1,1,1
+Alger,MI,1,1,1,1,-1
+Andrew,MO,-1,-1,-1,-1,-1
+Arthur,NE,1,1,1,1,-1
+Beckham,OK,1,1,1,1,1
+Blount,AL,-1,-1,-1,-1,-1
+Braxton,WV,-1,-1,-1,-1,-1
+Brooke,WV,1,1,1,1,1
+Brule,SD,1,1,1,1,1
+Carbon,WY,-1,-1,-1,1,-1
+Carter,MO,1,1,1,1,1
+Cascade,MT,1,1,1,1,1
+Cecil,MD,1,1,1,1,1
+Charles,MD,-1,-1,-1,-1,-1
+Clinton,IA,1,1,1,1,1
+Cloud,KS,-1,-1,-1,-1,-1
+Collingsworth,TX,1,1,1,1,1
+Colquitt,GA,1,1,1,1,1
+Dale,AL,-1,1,1,1,1
+Dallas,TX,-1,-1,-1,-1,-1
+Daniels,MT,1,1,1,1,1
+DeKalb,MO,-1,-1,-1,-1,-1
+Decatur,IN,-1,-1,-1,-1,-1
+Des Moines,IA,-1,-1,-1,-1,-1
+Dickey,ND,1,1,1,1,1
+Edgefield,SC,-1,-1,-1,-1,-1
+Emanuel,GA,1,1,1,0,-1
+Essex,NY,-1,-1,-1,-1,-1
+Essex,VA,-1,-1,-1,-1,-1
+Fayette,PA,1,1,1,1,1
+Fergus,MT,-1,-1,-1,-1,-1
+Forest,WI,1,-1,1,-1,1
+Franklin,MA,1,1,1,1,1
+Fulton,NY,-1,-1,-1,-1,-1
+Gallatin,MT,1,1,1,1,1
+Garfield,NE,1,1,1,1,1
+Giles,VA,1,-1,-1,0,-1
+Grand,UT,1,0,1,-1,-1
+Greeley,KS,-1,-1,-1,-1,-1
+Gunnison,CO,1,1,1,1,1
+Hamblen,TN,-1,-1,-1,1,1
+Henry,AL,1,1,1,1,1
+Henry,VA,-1,-1,-1,-1,-1
+Hernando,FL,-1,1,0,-1,-1
+Hockley,TX,1,1,1,1,-1
+Houston,MN,1,1,1,1,1
+Howard,IA,1,-1,1,-1,-1
+Hughes,SD,-1,-1,-1,-1,-1
+Independence,AR,1,1,1,1,1
+Isabella,MI,1,1,1,1,1
+Isanti,MN,1,1,1,1,1
+Island,WA,-1,-1,-1,-1,-1
+Jackson,FL,-1,-1,-1,-1,-1
+Jackson,MS,-1,-1,-1,-1,-1
+Johnson,GA,-1,0,1,1,1
+Johnson,TN,-1,-1,-1,-1,-1
+Kendall,TX,1,1,1,1,-1
+Kewaunee,WI,1,1,1,1,1
+Keweenaw,MI,1,-1,1,1,1
+Kossuth,IA,-1,-1,-1,1,-1
+Laurel,KY,1,1,1,1,1
+Lewis,ID,0,-1,-1,-1,0
+Lincoln,WI,-1,1,1,1,-1
+Loving,TX,0,0,0,0,0
+Lowndes,AL,1,1,1,1,1
+Lyon,MN,1,-1,-1,-1,-1
+Marion,WV,-1,-1,-1,-1,-1
+Marshall,IL,1,1,1,1,1
+McNairy,TN,-1,1,-1,-1,-1
+Moca Municipio,PR,0,0,0,0,0
+Monroe,AR,1,1,1,1,1
+Monroe,PA,1,1,1,1,1
+Montcalm,MI,1,1,1,1,1
+Monterey,CA,-1,-1,-1,-1,-1
+Montgomery,TX,1,1,1,1,1
+Montrose,CO,1,1,1,1,1
+Morgan,OH,1,1,1,1,1
+Navarro,TX,1,1,1,1,1
+Onslow,NC,-1,-1,-1,-1,-1
+Ozark,MO,1,1,1,1,1
+Payette,ID,-1,1,1,-1,-1
+Phelps,NE,1,1,1,1,1
+Rankin,MS,-1,-1,-1,-1,-1
+Red River Parish,LA,0,0,0,0,0
+Roberts,TX,1,1,1,1,1
+Rock Island,IL,1,1,1,1,1
+Rockwall,TX,-1,-1,-1,-1,-1
+Saline,NE,1,1,1,1,1
+San Patricio,TX,1,1,1,1,1
+Sawyer,WI,-1,-1,-1,-1,-1
+Scotland,NC,1,1,1,1,1
+Sequoyah,OK,1,1,1,1,1
+St. John,VI,0,0,0,0,0
+Sullivan,PA,-1,-1,-1,-1,-1
+Sumter,AL,1,1,1,1,1
+Swain,NC,1,1,1,1,1
+Taylor,IA,1,1,1,1,1
+Tooele,UT,-1,-1,-1,-1,-1
+Torrance,NM,1,1,1,1,1
+Transylvania,NC,-1,-1,1,1,1
+Trinity,CA,1,-1,0,-1,1
+Tulare,CA,-1,-1,-1,-1,1
+Vanderburgh,IN,1,1,1,1,1
+Wagoner,OK,-1,-1,-1,-1,-1
+Walker,AL,-1,-1,-1,-1,-1
+Walton,FL,1,1,1,1,-1
+Washington,IN,1,1,1,1,1
+Wayne,OH,1,1,1,1,1
+Wharton,TX,-1,1,1,1,1
+Williamson,TX,1,1,1,1,1
+,0,0,0,0,0
+Adams,IA,1,1,1,-1,1
+Addison,VT,-1,-1,-1,-1,-1
+Albany,NY,1,1,1,1,1
+Anderson,TX,1,1,1,1,1
+Boyd,KY,-1,-1,-1,-1,-1
+Brevard,FL,-1,-1,-1,-1,-1
+Butler,KY,-1,-1,-1,-1,1
+Callaway,MO,-1,-1,1,-1,-1
+Campbell,TN,-1,-1,-1,-1,-1
+Carroll,IN,1,1,1,1,1
+Centre,PA,1,1,1,1,1
+Chambers,AL,1,1,1,1,1
+Cheboygan,MI,1,1,1,1,1
+Cherokee,TX,-1,1,1,1,1
+Chippewa,MN,-1,1,1,-1,1
+Ciales Municipio,PR,0,0,0,0,0
+Clark,IN,1,1,1,1,1
+Clay,NE,1,1,1,1,1
+Clinton,OH,-1,-1,-1,-1,-1
+Colleton,SC,1,1,1,1,1
+Comanche,KS,-1,-1,-1,-1,-1
+Cumberland,NC,1,1,1,1,1
+DeKalb,IL,-1,1,1,-1,1
+Delta,CO,1,1,1,1,1
+Denver,CO,-1,-1,-1,-1,-1
+Dinwiddie,VA,1,1,1,1,1
+Duval,TX,1,1,1,1,1
+Esmeralda,NV,0,0,0,0,0
+Franklin,NC,-1,-1,-1,-1,-1
+Glasscock,TX,1,1,1,1,1
+Goochland,VA,1,1,1,1,1
+Grand Traverse,MI,1,1,1,1,-1
+Greene,IA,1,1,1,1,1
+Hampshire,WV,-1,-1,-1,-1,-1
+Harrison,IA,1,1,1,1,1
+Haskell,KS,-1,-1,-1,-1,-1
+Hatillo Municipio,PR,0,0,0,0,0
+Hillsdale,MI,-1,1,1,1,1
+Huerfano,CO,1,1,1,1,1
+Kane,IL,1,1,1,1,1
+Keith,NE,-1,1,1,1,1
+Knox,MO,1,1,1,1,1
+Lac qui Parle,MN,1,1,1,-1,1
+Lake,IN,1,1,1,1,1
+Lawrence,AR,1,1,1,1,1
+Lawrence,PA,-1,1,-1,-1,-1
+Lawrence,SD,-1,-1,-1,-1,-1
+Lehigh,PA,1,1,1,1,1
+Limestone,TX,1,1,1,1,1
+Macon,MO,1,1,1,1,1
+Maunabo Municipio,PR,0,0,0,0,0
+McDonald,MO,-1,-1,-1,-1,-1
+McHenry,ND,1,1,1,1,1
+Meeker,MN,-1,-1,-1,1,1
+Merced,CA,1,1,1,1,1
+Monroe,WI,-1,-1,-1,-1,-1
+Montgomery,IN,1,-1,-1,-1,-1
+Morgan,GA,-1,-1,-1,-1,-1
+Morgan,TN,-1,-1,-1,-1,-1
+Morovis Municipio,PR,0,0,0,0,0
+Morrison,MN,-1,-1,-1,-1,-1
+Motley,TX,1,-1,1,-1,1
+Navajo,AZ,1,1,1,1,1
+Niobrara,WY,1,1,1,1,1
+Northwest Arctic Borough,AK,-1,-1,-1,-1,-1
+Onondaga,NY,-1,-1,-1,-1,-1
+Orange,TX,1,1,1,1,1
+Orleans,VT,-1,-1,-1,-1,-1
+Pearl River,MS,1,1,1,1,-1
+Phillips,AR,1,1,1,1,1
+Portage,WI,-1,-1,-1,-1,-1
+Pulaski,VA,-1,-1,-1,-1,-1
+Richmond city,VA,1,1,1,1,1
+Robertson,TX,-1,-1,-1,-1,-1
+Routt,CO,1,1,1,1,1
+Rutherford,NC,1,1,1,1,1
+Sampson,NC,1,1,1,1,1
+San Mateo,CA,1,1,1,-1,1
+St. Clair,MO,1,1,1,-1,-1
+St. Helena Parish,LA,0,0,0,0,0
+Stephens,TX,1,1,1,1,1
+Stephenson,IL,-1,-1,-1,-1,-1
+Sublette,WY,1,-1,-1,-1,-1
+Surry,VA,-1,-1,-1,-1,-1
+Sussex,VA,1,1,1,1,1
+Thomas,GA,1,1,-1,1,-1
+Todd,SD,-1,-1,-1,-1,-1
+Union,IL,0,0,1,-1,-1
+Union,OR,-1,-1,-1,-1,-1
+Wallowa,OR,-1,-1,-1,-1,-1
+Washington,FL,-1,-1,0,-1,-1
+Washington,MS,-1,-1,-1,-1,-1
+Wayne,GA,1,1,1,-1,1
+Wayne,TN,-1,-1,-1,1,-1
+Webb,TX,1,1,1,1,1
+Wilkes,NC,1,1,1,1,1
+Worth,MO,1,1,1,1,1
+Yavapai,AZ,-1,-1,-1,-1,-1
+Yazoo,MS,1,1,1,1,-1
+Acadia Parish,LA,0,0,0,0,0
+Adair,OK,1,1,1,1,1
+Adams,OH,0,0,0,0,0
+Aleutians East Borough,AK,-1,-1,-1,-1,-1
+Baldwin,GA,1,1,1,1,1
+Beaver,OK,1,0,1,1,1
+Bedford,PA,-1,-1,-1,-1,1
+Boone,KY,1,1,1,1,1
+Brazos,TX,-1,-1,-1,-1,-1
+Bristol city,VA,-1,-1,-1,-1,-1
+Caguas Municipio,PR,0,0,0,0,0
+Calhoun,IL,1,1,1,1,1
+Camden,NC,-1,-1,-1,-1,-1
+Candler,GA,-1,-1,1,1,-1
+Carroll,MS,1,-1,1,1,1
+Cayuga,NY,-1,-1,-1,-1,1
+Champaign,IL,-1,-1,-1,-1,-1
+Chaves,NM,-1,1,1,1,1
+Childress,TX,1,1,1,-1,1
+Choctaw,MS,-1,-1,-1,0,1
+Chouteau,MT,1,1,1,-1,1
+Christian,KY,-1,-1,-1,-1,-1
+Cibola,NM,1,1,1,1,1
+Clarke,AL,1,1,1,1,-1
+Clarke,VA,-1,-1,-1,-1,-1
+Clay,IA,1,1,1,1,1
+Clearwater,MN,-1,-1,-1,-1,1
+Cleburne,AR,1,1,1,1,1
+Coles,IL,-1,1,-1,1,1
+Currituck,NC,-1,-1,-1,-1,-1
+Custer,NE,1,1,1,1,1
+Davidson,NC,-1,-1,-1,-1,-1
+Davis,IA,1,1,1,1,1
+Day,SD,-1,-1,-1,-1,1
+Dickson,TN,1,1,1,1,1
+Ellis,TX,-1,-1,-1,-1,-1
+Faribault,MN,1,1,1,1,-1
+Gaines,TX,1,1,1,1,-1
+Garrard,KY,1,1,1,1,1
+Gentry,MO,1,1,1,1,1
+Gonzales,TX,1,1,1,0,1
+Graham,NC,-1,-1,1,1,1
+Grant,AR,1,1,1,1,1
+Grant,SD,-1,-1,-1,-1,1
+Grayson,TX,1,1,1,1,1
+Greene,OH,1,1,1,1,1
+Greer,OK,1,1,1,1,1
+Hampton city,VA,-1,-1,-1,-1,-1
+Harlan,NE,1,1,1,1,1
+Harris,GA,1,1,1,1,1
+Harrison,OH,1,1,1,1,-1
+Harvey,KS,-1,-1,-1,-1,-1
+Hickory,MO,1,1,1,1,1
+Humphreys,TN,-1,-1,-1,-1,1
+Huron,OH,1,1,1,1,1
+Iron,UT,1,-1,-1,-1,-1
+Jackson,KS,-1,-1,0,1,1
+Jasper,IA,1,1,1,1,1
+Jefferson,WV,1,1,1,1,1
+Jessamine,KY,1,1,1,1,1
+Kent,MD,1,1,-1,-1,1
+Kent,RI,1,1,1,1,1
+Knox,IL,-1,-1,-1,-1,-1
+La Salle,IL,0,0,0,0,0
+Lake,FL,-1,1,1,1,1
+Lane,OR,-1,-1,-1,-1,-1
+Latah,ID,1,1,1,1,1
+Lincoln Parish,LA,0,0,0,0,0
+Loudoun,VA,-1,-1,-1,-1,-1
+Lunenburg,VA,-1,-1,-1,1,-1
+Lynn,TX,1,1,1,1,1
+Macon,IL,1,1,1,1,1
+Madison,KY,1,1,1,-1,1
+Marshall,IN,-1,1,1,1,-1
+McClain,OK,-1,-1,-1,-1,-1
+McDuffie,GA,-1,-1,-1,-1,-1
+Mineral,WV,-1,1,1,-1,1
+Mississippi,MO,1,1,1,1,1
+Moffat,CO,1,1,1,1,1
+Montgomery,MS,1,1,1,1,-1
+Montmorency,MI,1,1,1,1,1
+Moore,NC,-1,-1,-1,1,-1
+Oldham,TX,-1,1,1,1,1
+Orange,IN,-1,-1,-1,-1,-1
+Perry,OH,-1,-1,-1,-1,-1
+Pitkin,CO,1,1,1,1,1
+Platte,NE,1,1,1,1,1
+Polk,NC,1,1,1,1,1
+Porter,IN,1,1,1,1,1
+Portsmouth city,VA,-1,-1,-1,-1,-1
+Prince George's,MD,-1,-1,-1,-1,-1
+Prince George,VA,1,1,1,1,1
+Putnam,MO,1,1,1,1,1
+Randolph,AR,1,1,1,1,1
+Richmond,NY,0,0,0,0,0
+Richmond,VA,-1,-1,-1,1,-1
+Rusk,WI,-1,-1,-1,-1,-1
+San Luis Obispo,CA,-1,-1,-1,-1,-1
+San Saba,TX,1,1,1,1,1
+Santa Cruz,CA,1,1,1,1,1
+Simpson,KY,1,1,1,1,1
+Spartanburg,SC,1,-1,-1,-1,-1
+St. Clair,IL,1,1,1,1,1
+Stonewall,TX,1,1,1,1,1
+Tama,IA,-1,1,1,1,1
+Taylor,GA,1,-1,1,1,1
+Tift,GA,1,0,1,1,1
+Tolland,CT,1,1,1,1,1
+Towner,ND,-1,-1,1,-1,-1
+Trimble,KY,1,1,1,1,1
+Trousdale,TN,1,1,1,1,1
+Tyrrell,NC,1,1,1,1,1
+Upshur,TX,-1,-1,-1,-1,-1
+Uvalde,TX,1,1,1,1,1
+Webster,NE,1,1,1,1,1
+Wheatland,MT,-1,-1,-1,-1,-1
+Wood,TX,1,1,1,1,-1
+Anchorage Municipality,AK,0,0,0,0,0
+Bath,VA,-1,-1,-1,-1,-1
+Bradford,FL,-1,-1,-1,-1,-1
+Calhoun,TX,-1,1,1,1,1
+Cameron,PA,-1,-1,-1,-1,-1
+Cass,ND,1,1,1,1,1
+Catoosa,GA,1,1,1,1,1
+Cerro Gordo,IA,-1,-1,-1,0,-1
+Coahoma,MS,1,1,1,1,1
+Cochran,TX,1,-1,1,1,1
+Columbia,GA,-1,-1,-1,-1,-1
+Crawford,IA,1,-1,-1,1,-1
+DeKalb,IN,-1,-1,-1,-1,-1
+Decatur,KS,-1,-1,-1,-1,1
+Delaware,NY,-1,-1,-1,-1,-1
+Deuel,SD,-1,-1,-1,-1,-1
+Douglas,NE,1,1,1,1,1
+Duval,FL,-1,-1,-1,-1,-1
+Dyer,TN,1,-1,-1,-1,1
+Fort Bend,TX,1,1,1,1,1
+Franklin,NE,1,1,1,1,-1
+Fulton,KY,-1,1,1,1,1
+Gooding,ID,-1,-1,-1,-1,-1
+Grant,WI,-1,-1,-1,-1,-1
+Greene,GA,-1,-1,1,1,1
+Greene,TN,1,1,-1,-1,-1
+Guadalupe,TX,1,1,1,1,1
+Hancock,WV,1,1,1,1,1
+Harper,OK,1,1,1,1,1
+Henry,KY,1,1,1,1,1
+Houghton,MI,1,1,1,1,1
+Houston,TX,-1,1,1,1,1
+Iberia Parish,LA,0,0,0,0,0
+Isle of Wight,VA,-1,-1,-1,-1,-1
+Kimble,TX,1,1,1,1,1
+Knox,TX,1,-1,1,1,1
+La Salle,TX,1,1,1,1,1
+LaPorte,IN,-1,-1,-1,-1,-1
+Lake,MT,-1,-1,-1,-1,-1
+Lincoln,NC,1,1,1,1,-1
+Lubbock,TX,1,1,1,1,1
+Lumpkin,GA,-1,-1,1,1,1
+Marion,MO,-1,1,1,-1,-1
+Marlboro,SC,1,1,1,1,1
+Marshall,MS,1,1,1,1,1
+Mendocino,CA,1,-1,-1,-1,-1
+Mercer,KY,1,1,1,1,-1
+Minnehaha,SD,1,1,1,1,1
+Morris,TX,1,1,1,1,-1
+Newport,RI,-1,1,1,1,1
+Norman,MN,1,-1,1,1,-1
+Orange,FL,-1,1,1,1,1
+Outagamie,WI,-1,-1,-1,-1,-1
+Park,WY,1,1,1,1,-1
+Perry,TN,-1,-1,-1,-1,-1
+Pershing,NV,-1,1,-1,1,1
+Pickett,TN,-1,-1,-1,-1,-1
+Pike,AL,1,1,1,1,1
+Plumas,CA,-1,1,1,1,1
+Potter,TX,-1,1,1,-1,1
+Power,ID,-1,-1,-1,1,1
+Putnam,IL,-1,-1,-1,1,1
+Ramsey,MN,1,1,1,1,1
+Sabine,TX,1,-1,1,-1,1
+Salem,NJ,1,1,1,1,1
+San Diego,CA,1,1,0,-1,-1
+Scotts Bluff,NE,1,1,1,1,1
+Searcy,AR,1,1,1,1,1
+Shelby,AL,-1,-1,-1,-1,-1
+Sheridan,WY,1,-1,1,1,-1
+Somerset,NJ,-1,-1,-1,-1,-1
+St. Croix,WI,1,1,1,1,1
+Stillwater,MT,-1,-1,-1,-1,-1
+Sumner,KS,-1,-1,-1,-1,-1
+Treasure,MT,1,1,1,1,1
+Union,IN,1,1,1,1,1
+Valley,NE,1,1,1,1,1
+Vernon,MO,1,1,1,1,1
+Villalba Municipio,PR,0,0,0,0,0
+Warren,NY,1,1,1,1,1
+Warren,VA,1,-1,-1,-1,-1
+Washington,KS,-1,-1,-1,-1,-1
+Wayne,MI,1,1,1,1,1
+Webster,IA,-1,-1,-1,1,1
+Williamsburg,SC,1,1,1,1,1
+Woods,OK,1,1,1,1,1
+Yellowstone,MT,1,1,1,1,1
+Adams,ID,1,-1,1,1,1
+Bacon,GA,-1,-1,1,1,-1
+Benewah,ID,-1,-1,-1,-1,-1
+Benton,MN,1,1,1,1,1
+Berkeley,SC,1,-1,-1,-1,-1
+Bourbon,KY,1,1,1,1,1
+Buchanan,VA,1,-1,-1,-1,-1
+Butler,PA,1,1,1,1,1
+Canadian,OK,-1,-1,-1,-1,-1
+Cape Girardeau,MO,1,-1,-1,-1,1
+Carteret,NC,1,1,1,1,1
+Cass,NE,1,1,1,1,1
+Cheatham,TN,1,1,1,1,1
+Clark,KS,-1,-1,-1,-1,-1
+Clark,NV,-1,-1,-1,-1,-1
+Clay,GA,-1,-1,1,1,1
+Clay,TN,-1,-1,-1,1,-1
+Clinton,MI,1,1,1,1,1
+Cook,MN,-1,-1,-1,-1,-1
+Crawford,OH,-1,0,1,1,1
+Cumberland,ME,-1,-1,-1,-1,-1
+Daggett,UT,-1,1,1,1,1
+Dixie,FL,-1,-1,-1,-1,-1
+Early,GA,1,-1,-1,1,1
+Fairfax city,VA,-1,-1,-1,-1,-1
+Floyd,VA,-1,-1,-1,-1,-1
+Forsyth,GA,-1,-1,-1,-1,-1
+Franklin Parish,LA,0,0,0,0,0
+Franklin,IA,1,1,1,1,1
+Franklin,ME,1,1,1,1,1
+Fremont,IA,0,-1,-1,1,1
+Garvin,OK,1,1,1,1,1
+Grafton,NH,1,1,1,1,1
+Hale,AL,-1,-1,-1,-1,-1
+Henrico,VA,1,1,1,1,1
+Humboldt,NV,-1,-1,-1,-1,-1
+Jasper,GA,-1,-1,-1,-1,-1
+Jennings,IN,1,-1,-1,-1,1
+Knox,IN,-1,-1,-1,-1,-1
+Lea,NM,1,1,1,1,1
+Lee,IL,1,1,1,1,1
+Lewis and Clark,MT,-1,-1,-1,-1,-1
+Lewis,WV,-1,-1,-1,-1,-1
+Livingston,MO,1,1,1,1,1
+Logan,KS,-1,-1,-1,-1,-1
+Loup,NE,1,1,1,1,-1
+Mackinac,MI,1,1,1,-1,-1
+Marion,IL,-1,-1,-1,-1,-1
+Marion,OR,1,1,1,1,1
+Maui,HI,-1,-1,-1,-1,-1
+McKinley,NM,1,1,1,1,1
+Mellette,SD,1,1,1,1,1
+Miller,MO,1,1,1,1,1
+Montgomery,KS,-1,-1,-1,-1,-1
+Morrow,OR,-1,-1,-1,-1,-1
+Nelson,ND,1,1,1,0,-1
+New London,CT,-1,1,1,1,1
+Norfolk city,VA,-1,-1,-1,-1,-1
+Northampton,VA,-1,-1,-1,-1,-1
+Oceana,MI,1,1,1,1,1
+Okfuskee,OK,1,1,1,1,1
+Owsley,KY,1,1,1,1,1
+Penobscot,ME,1,1,1,1,1
+Perkins,NE,1,1,1,1,1
+Polk,NE,1,0,1,1,1
+Pulaski,KY,1,1,1,1,1
+Sanilac,MI,1,1,1,1,1
+Saratoga,NY,1,1,1,1,1
+Sedgwick,KS,-1,-1,-1,-1,-1
+Shannon,MO,1,1,1,1,1
+Smith,TN,-1,1,1,1,1
+Somervell,TX,-1,-1,-1,-1,-1
+St. Bernard Parish,LA,0,0,0,0,0
+St. Croix,VI,0,0,0,0,0
+Starke,IN,-1,-1,-1,-1,1
+Thurston,WA,1,1,1,1,1
+Tillman,OK,1,1,1,1,1
+Tioga,NY,1,1,1,1,1
+Union,FL,-1,-1,-1,-1,-1
+Union,MS,1,1,1,1,-1
+Utah,UT,-1,-1,-1,-1,-1
+Wabaunsee,KS,-1,-1,0,1,1
+Waynesboro city,VA,-1,-1,-1,-1,1
+Wexford,MI,1,1,1,1,1
+Wilcox,AL,1,-1,1,-1,1
+Ziebach,SD,-1,-1,-1,-1,1
+Amite,MS,1,1,1,-1,-1
+Anderson,KS,-1,1,-1,-1,-1
+Appanoose,IA,1,1,1,1,1
+Ashland,OH,1,1,1,1,1
+Beaver,UT,-1,1,1,1,1
+Benton,MO,1,1,1,1,1
+Bienville Parish,LA,0,0,0,0,0
+Boone,AR,1,1,1,1,1
+Branch,MI,1,1,1,1,1
+Bullitt,KY,1,1,1,1,1
+Cabarrus,NC,1,1,1,1,1
+Calhoun,FL,-1,-1,-1,-1,-1
+Calhoun,MS,1,-1,1,1,1
+Calvert,MD,-1,-1,-1,-1,-1
+Carbon,MT,1,1,1,1,1
+Carter,MT,1,1,1,-1,1
+Cass,IA,1,1,1,-1,1
+Chautauqua,KS,-1,-1,-1,1,-1
+Cherokee,KS,-1,-1,-1,1,-1
+Chesapeake city,VA,-1,-1,-1,-1,-1
+Colfax,NE,1,1,1,1,1
+Comal,TX,1,1,1,1,1
+Conecuh,AL,1,-1,1,1,1
+Copiah,MS,-1,-1,-1,-1,-1
+Crawford,GA,1,1,1,1,1
+Crosby,TX,1,1,1,1,1
+Curry,NM,1,1,1,1,1
+Deer Lodge,MT,-1,-1,-1,-1,-1
+Dickinson,IA,1,1,1,1,1
+Fannin,GA,-1,-1,-1,-1,-1
+Faulk,SD,-1,-1,-1,-1,-1
+Florida Municipio,PR,0,0,0,0,0
+Franklin,OH,1,-1,1,-1,-1
+Furnas,NE,1,1,1,1,1
+Garfield,OK,-1,-1,-1,-1,1
+Glacier,MT,-1,-1,-1,-1,-1
+Greenwood,KS,-1,-1,-1,-1,-1
+Hardeman,TN,-1,-1,-1,-1,-1
+Harney,OR,-1,-1,-1,-1,-1
+Hopkins,TX,-1,1,1,-1,1
+Huron,MI,1,1,1,1,-1
+Iredell,NC,1,1,1,1,1
+Iron,MO,1,1,1,0,1
+Itawamba,MS,-1,1,1,1,1
+Jackson,AL,1,1,1,1,1
+Jayuya Municipio,PR,0,0,0,0,0
+Jefferson,MO,1,1,1,1,1
+Kanawha,WV,-1,-1,-1,-1,-1
+LaGrange,IN,-1,-1,1,-1,-1
+Lamb,TX,1,1,1,1,1
+Laurens,SC,1,1,1,1,1
+Lee,TX,1,-1,1,1,1
+Lincoln,NE,1,1,1,1,1
+Livingston,IL,1,1,1,1,-1
+Madera,CA,-1,-1,-1,-1,-1
+Madison,AR,-1,-1,-1,-1,-1
+Marion,TX,1,1,1,1,1
+Marshall,KS,-1,-1,-1,-1,-1
+Martin,NC,1,1,1,1,1
+McCulloch,TX,1,1,1,1,1
+McLean,ND,1,1,1,1,1
+Mecklenburg,NC,1,1,1,1,1
+Miami,OH,1,1,1,1,1
+Murray,GA,-1,1,1,1,1
+Napa,CA,-1,-1,-1,-1,-1
+Newberry,SC,1,1,1,1,1
+Oakland,MI,1,1,1,1,1
+Orangeburg,SC,-1,-1,1,1,1
+Pasco,FL,-1,1,0,-1,-1
+Pleasants,WV,-1,-1,-1,-1,-1
+Polk,IA,1,1,1,1,1
+Pottawatomie,OK,1,1,1,1,1
+Powell,MT,1,1,-1,1,1
+Putnam,IN,-1,-1,-1,-1,1
+Ravalli,MT,-1,-1,-1,-1,-1
+Ray,MO,1,1,1,1,1
+San Jacinto,TX,1,1,1,1,1
+Schleicher,TX,1,1,1,1,1
+Seward,KS,1,1,-1,1,-1
+Siskiyou,CA,1,1,1,1,1
+Smyth,VA,-1,-1,-1,-1,-1
+Socorro,NM,1,1,1,1,-1
+St. Joseph,MI,1,1,1,1,1
+St. Louis,MN,1,1,1,1,1
+Stanly,NC,1,1,1,1,1
+Sumter,SC,1,1,1,1,1
+Suwannee,FL,1,-1,0,-1,-1
+Tattnall,GA,-1,0,1,1,-1
+Ward,ND,1,1,1,1,1
+Waupaca,WI,-1,-1,-1,-1,-1
+Webster Parish,LA,0,0,0,0,0
+Webster,GA,1,1,1,1,1
+West Carroll Parish,LA,0,0,0,0,0
+Williamsburg city,VA,-1,-1,-1,-1,-1
+Winnebago,WI,-1,-1,-1,-1,-1
+Yalobusha,MS,1,1,1,1,1
+Barceloneta Municipio,PR,0,0,0,0,0
+Bath,KY,1,1,1,1,1
+Benton,OR,-1,-1,-1,-1,-1
+Bergen,NJ,1,1,1,1,1
+Bucks,PA,1,1,1,1,1
+Bulloch,GA,1,-1,-1,-1,-1
+Chatham,NC,-1,1,1,1,1
+Chowan,NC,1,1,1,1,1
+Clark,WA,-1,-1,-1,-1,-1
+Clermont,OH,1,1,1,1,1
+Colorado,TX,1,1,1,-1,1
+Colusa,CA,-1,1,-1,-1,-1
+Cook,IL,1,1,1,1,1
+Corozal Municipio,PR,0,0,0,0,0
+Covington city,VA,-1,-1,-1,-1,-1
+Cumberland,TN,-1,-1,-1,-1,-1
+Custer,ID,-1,-1,-1,-1,1
+Dallam,TX,1,1,1,1,1
+Daviess,KY,1,-1,1,-1,1
+Deaf Smith,TX,1,1,1,1,1
+Dent,MO,1,1,1,1,1
+Douglas,GA,-1,-1,-1,-1,-1
+Ellis,KS,1,-1,-1,1,-1
+Flagler,FL,1,1,-1,-1,-1
+Franklin,GA,1,-1,1,-1,1
+Franklin,TN,-1,-1,-1,-1,-1
+Fulton,AR,1,1,1,1,1
+Fulton,PA,-1,-1,-1,-1,-1
+Gaston,NC,1,1,1,1,1
+Graham,AZ,1,1,1,1,1
+Grand Forks,ND,1,1,1,1,1
+Hamilton,NE,1,1,1,-1,-1
+Hampton,SC,1,1,1,1,-1
+Hardee,FL,-1,-1,-1,-1,-1
+Hartford,CT,1,1,1,1,1
+Hawkins,TN,-1,-1,-1,-1,-1
+Hertford,NC,-1,-1,-1,1,1
+Hood River,OR,-1,-1,-1,-1,-1
+Hunterdon,NJ,-1,-1,-1,-1,-1
+Jackson,CO,-1,-1,-1,-1,-1
+Jefferson Davis,MS,1,1,1,-1,1
+Jefferson,IL,1,1,1,1,1
+Jefferson,OR,-1,-1,-1,-1,-1
+Kay,OK,1,1,1,1,1
+La Paz,AZ,1,1,1,1,1
+Lafayette,MO,1,1,1,1,1
+Leelanau,MI,1,1,1,1,1
+Lincoln,ME,1,1,1,1,1
+Linn,IA,1,1,1,1,1
+Manassas city,VA,-1,-1,-1,-1,-1
+Manatee,FL,1,1,1,1,1
+Marion,IN,-1,-1,-1,-1,-1
+Menominee,WI,1,1,1,1,1
+Mercer,PA,-1,-1,-1,-1,-1
+Mono,CA,-1,-1,-1,-1,0
+Morgan,UT,-1,-1,-1,-1,-1
+Morgan,WV,-1,-1,-1,-1,-1
+Muskegon,MI,1,1,1,1,1
+Nez Perce,ID,-1,-1,-1,-1,-1
+Oktibbeha,MS,1,1,1,1,-1
+Oneida,ID,-1,-1,-1,-1,-1
+Ouachita,AR,-1,1,1,1,1
+Pennington,MN,-1,-1,-1,-1,1
+Pike,KY,-1,1,1,1,-1
+Pinal,AZ,-1,-1,-1,-1,-1
+Poinsett,AR,1,1,1,1,1
+Powhatan,VA,1,1,1,1,1
+Prince Edward,VA,-1,-1,-1,-1,1
+Putnam,FL,-1,-1,1,-1,1
+Randolph,NC,-1,-1,-1,-1,-1
+Refugio,TX,1,1,1,1,1
+Ripley,MO,1,-1,1,1,-1
+Rockland,NY,-1,-1,-1,-1,-1
+Rutherford,TN,1,1,1,1,1
+San Joaquin,CA,1,1,1,1,1
+San Miguel,CO,1,1,1,1,1
+Sanpete,UT,-1,-1,-1,-1,-1
+Scott,IA,1,1,1,1,1
+Shelby,KY,-1,-1,-1,-1,1
+St. Louis,MO,1,1,1,1,1
+Susquehanna,PA,1,-1,-1,-1,-1
+Sweetwater,WY,1,-1,-1,-1,-1
+Teton,ID,1,1,-1,1,1
+Tillamook,OR,-1,-1,-1,-1,-1
+Towns,GA,-1,-1,1,1,1
+Trego,KS,-1,1,-1,-1,-1
+Trinity,TX,1,1,1,1,1
+Twin Falls,ID,1,1,1,1,1
+Valdez-Cordova Census Area,AK,-1,-1,-1,-1,-1
+Wakulla,FL,1,-1,-1,-1,-1
+Walthall,MS,1,1,1,1,1
+Warren,KY,1,1,1,1,0
+Washington,AL,1,1,1,1,1
+Washington,NY,1,1,1,1,1
+Washington,VA,-1,-1,-1,-1,-1
+Wayne,UT,-1,1,1,1,1
+Wayne,WV,-1,-1,-1,-1,-1
+West Feliciana Parish,LA,0,0,0,0,0
+Wilkes,GA,-1,-1,-1,1,1
+Winona,MN,-1,-1,-1,-1,-1
+Woodford,IL,1,1,1,1,1
+Ballard,KY,-1,-1,-1,-1,1
+Bedford city,VA,0,0,0,0,0
+Berks,PA,1,1,1,1,1
+Bledsoe,TN,-1,-1,-1,-1,-1
+Borden,TX,1,1,1,1,1
+Box Butte,NE,1,1,1,1,1
+Butts,GA,-1,-1,-1,-1,-1
+Caledonia,VT,-1,-1,-1,-1,1
+Camas,ID,1,1,1,1,1
+Cambria,PA,1,1,1,1,1
+Camden,GA,1,1,1,1,1
+Caroline,VA,1,1,1,1,1
+Carroll,VA,-1,-1,-1,-1,-1
+Charlotte,FL,-1,-1,1,1,-1
+Chase,KS,-1,-1,-1,-1,-1
+Choctaw,AL,1,1,1,1,1
+Concho,TX,1,1,1,1,1
+Coosa,AL,1,1,1,1,1
+Crawford,MI,1,1,1,1,1
+Custer,OK,1,1,1,1,-1
+Dade,GA,1,1,1,1,1
+Dallas,AL,1,1,1,1,1
+Davidson,TN,1,1,1,1,1
+Dolores,CO,1,1,1,1,1
+Eastland,TX,1,1,1,1,1
+Fairfield,SC,1,1,1,1,1
+Fayette,IA,-1,-1,1,1,1
+Fleming,KY,1,1,1,1,1
+Florence,SC,1,1,1,1,-1
+Floyd,KY,1,1,1,1,-1
+Foard,TX,1,1,1,1,1
+Franklin,ID,1,1,1,1,1
+Fremont,ID,1,1,1,1,-1
+Gallatin,KY,1,1,1,1,1
+Goliad,TX,1,-1,-1,-1,-1
+Goshen,WY,-1,-1,-1,-1,1
+Grant,ND,-1,-1,1,-1,-1
+Greenbrier,WV,-1,-1,-1,-1,-1
+Hamilton,IA,1,1,1,1,-1
+Hancock,IL,-1,1,1,-1,1
+Harding,SD,-1,-1,-1,-1,-1
+Jeff Davis,GA,1,1,1,1,-1
+Jefferson,TX,1,1,1,1,1
+Jones,SD,-1,-1,-1,-1,-1
+Juneau,WI,-1,-1,-1,-1,-1
+Kauai,HI,-1,-1,-1,-1,-1
+Kemper,MS,1,1,1,1,1
+Kent,MI,-1,-1,-1,-1,-1
+Laclede,MO,1,1,1,1,1
+Lane,KS,1,1,1,1,1
+Lee,FL,-1,-1,-1,-1,-1
+Lee,MS,1,1,1,1,1
+Lewis,MO,1,1,1,1,1
+Lyon,KS,-1,-1,-1,-1,-1
+Lyon,NV,-1,1,-1,-1,-1
+Marathon,WI,1,1,1,1,1
+Marion,FL,-1,-1,-1,-1,-1
+Marion,MS,1,1,-1,-1,-1
+Marquette,MI,1,1,1,1,1
+Martinsville city,VA,-1,-1,-1,-1,-1
+McPherson,SD,-1,-1,-1,-1,-1
+Meriwether,GA,-1,-1,-1,-1,-1
+Miami-Dade,FL,-1,-1,-1,-1,-1
+Middlesex,VA,-1,1,-1,-1,-1
+Mitchell,TX,1,1,1,1,1
+Monroe,IA,1,1,1,1,1
+Montgomery,AL,1,1,1,1,1
+Montgomery,NY,1,1,1,1,1
+Montgomery,VA,-1,-1,-1,-1,-1
+Moore,TN,-1,-1,-1,-1,-1
+Morris,KS,-1,-1,-1,-1,1
+Murray,OK,-1,1,1,1,1
+Nance,NE,1,1,1,1,-1
+New York,NY,0,0,0,0,0
+Okanogan,WA,-1,-1,-1,-1,-1
+Osceola,IA,1,1,1,-1,1
+Otoe,NE,1,1,1,1,1
+Page,VA,-1,1,-1,-1,-1
+Pemiscot,MO,1,1,1,1,1
+Petroleum,MT,0,0,0,0,0
+Philadelphia,PA,1,1,1,1,1
+Pitt,NC,1,1,1,1,1
+Pittsburg,OK,1,1,1,1,-1
+Plaquemines Parish,LA,0,0,0,0,0
+Pocahontas,IA,1,1,1,1,1
+Polk,GA,-1,-1,-1,1,1
+Polk,TN,-1,-1,-1,1,1
+Pulaski,AR,1,1,1,1,1
+Richardson,NE,1,1,1,1,1
+Richland,IL,1,1,1,-1,1
+Rock,MN,-1,-1,-1,-1,-1
+Ross,OH,1,1,1,1,1
+Saluda,SC,1,1,1,1,1
+San Sebastián Municipio,PR,0,0,0,0,0
+Sheboygan,WI,1,1,1,1,1
+Sioux,ND,1,1,1,1,1
+St. Thomas,VI,0,0,0,0,0
+Staunton city,VA,-1,-1,-1,-1,1
+Steele,ND,1,1,1,1,-1
+Sully,SD,-1,-1,-1,1,-1
+Taylor,WV,1,-1,-1,-1,-1
+Toole,MT,-1,-1,-1,1,1
+Valley,ID,-1,-1,-1,-1,-1
+Vermillion,IN,1,1,1,1,-1
+Washington,CO,1,1,1,1,-1
+Westmoreland,VA,-1,-1,-1,-1,-1
+White,IL,0,-1,1,1,1
+Winkler,TX,1,1,1,1,1
+Wright,MN,1,1,1,1,1
+York,VA,-1,-1,-1,-1,-1
+Yuma,CO,1,1,1,1,1
+Adair,MO,1,1,1,1,1
+Aitkin,MN,-1,-1,-1,-1,-1
+Alfalfa,OK,1,1,1,1,1
+Allen,IN,1,1,1,1,1
+Bayamón Municipio,PR,0,0,0,0,0
+Benton,IN,1,1,1,1,-1
+Bleckley,GA,1,1,1,1,1
+Blue Earth,MN,1,1,1,1,1
+Brown,SD,1,-1,-1,1,1
+Cannon,TN,1,1,1,1,1
+Carson City,NV,-1,-1,-1,-1,-1
+Charlton,GA,-1,-1,1,1,1
+Chautauqua,NY,1,-1,1,1,-1
+Cherokee,AL,1,1,1,1,1
+Claiborne,MS,1,1,1,1,1
+Cleveland,AR,1,1,1,1,-1
+Cole,MO,-1,1,-1,-1,-1
+Coshocton,OH,1,1,1,1,1
+Craig,VA,1,1,1,1,1
+Crane,TX,1,1,1,1,1
+Crockett,TN,1,1,1,1,-1
+Culpeper,VA,1,1,1,-1,1
+Cumberland,NJ,1,1,1,1,1
+Divide,ND,1,1,1,1,1
+Dodge,WI,1,-1,-1,-1,-1
+Doniphan,KS,-1,-1,-1,-1,-1
+Dubois,IN,1,-1,1,-1,-1
+Dubuque,IA,1,1,1,1,1
+Edmunds,SD,-1,-1,-1,1,-1
+Elko,NV,0,-1,0,-1,-1
+Emery,UT,-1,1,1,1,1
+Fairfield,CT,-1,-1,-1,-1,-1
+Fayette,OH,-1,1,1,1,1
+Garfield,UT,-1,1,1,-1,-1
+Grant,NE,1,1,1,1,1
+Granville,NC,1,1,1,1,1
+Hamilton,OH,1,1,1,1,1
+Harrison,WV,-1,-1,-1,-1,-1
+Hubbard,MN,-1,-1,-1,-1,-1
+Huntingdon,PA,1,-1,-1,-1,-1
+Jackson,KY,1,1,1,-1,-1
+Jefferson,IN,-1,-1,-1,-1,-1
+Johnson,MO,1,1,1,1,1
+Johnson,WY,-1,-1,-1,1,-1
+Kingsbury,SD,-1,-1,-1,-1,-1
+Klamath,OR,-1,-1,-1,-1,-1
+Labette,KS,1,1,1,-1,-1
+Lafourche Parish,LA,0,0,0,0,0
+Lake,CO,1,1,1,1,1
+Lamar,TX,1,1,1,1,1
+Lanier,GA,1,1,1,1,1
+Limestone,AL,1,1,1,1,1
+Lincoln,GA,-1,-1,-1,-1,-1
+Lincoln,TN,-1,0,-1,-1,1
+Logan,CO,1,1,1,1,1
+Marin,CA,1,1,1,-1,1
+Marshall,AL,1,1,1,1,1
+Matanuska-Susitna Borough,AK,1,-1,1,-1,-1
+McLeod,MN,-1,-1,-1,-1,1
+McMullen,TX,1,1,1,1,1
+Menifee,KY,1,1,1,1,1
+Metcalfe,KY,1,1,1,1,1
+Monroe,OH,1,1,1,-1,-1
+Norfolk,MA,1,1,1,1,1
+Oconee,SC,1,1,1,1,1
+Oglethorpe,GA,-1,-1,-1,-1,-1
+Okmulgee,OK,-1,1,-1,-1,1
+Orange,NY,1,1,1,1,-1
+Orange,VA,1,-1,-1,-1,1
+Otsego,MI,1,1,1,1,1
+Ottawa,OH,1,1,1,1,1
+Overton,TN,-1,1,-1,1,-1
+Owen,KY,1,1,1,1,-1
+Panola,TX,1,1,1,1,1
+Park,MT,-1,-1,-1,-1,-1
+Patillas Municipio,PR,0,0,0,0,0
+Pender,NC,1,1,1,1,1
+Piatt,IL,-1,-1,-1,-1,-1
+Pittsylvania,VA,-1,-1,-1,-1,-1
+Pope,AR,1,1,1,1,1
+Portage,OH,-1,-1,-1,-1,-1
+Quitman,MS,-1,1,1,1,1
+Riverside,CA,1,1,1,1,1
+Rockbridge,VA,-1,-1,-1,-1,1
+Roscommon,MI,1,1,1,1,1
+Runnels,TX,1,1,1,1,1
+San Juan Municipio,PR,0,0,0,0,0
+Scott,TN,-1,-1,-1,-1,-1
+Sedgwick,CO,1,1,1,1,1
+Shawano,WI,1,1,1,1,1
+Sheridan,MT,-1,-1,-1,-1,-1
+Sioux,NE,1,1,1,1,1
+Spencer,IN,1,1,1,-1,-1
+St. Lawrence,NY,-1,-1,-1,-1,-1
+St. Mary's,MD,1,1,1,-1,-1
+Stoddard,MO,-1,-1,-1,-1,-1
+Summers,WV,-1,-1,-1,-1,-1
+Tazewell,IL,1,1,1,1,1
+Telfair,GA,1,-1,-1,1,-1
+Uinta,WY,1,-1,1,1,1
+Ware,GA,1,1,1,-1,-1
+Washakie,WY,1,1,1,1,1
+Wheeler,OR,0,0,0,0,0
+Wilson,NC,1,1,1,1,1
+Wolfe,KY,1,1,1,-1,-1
+Wright,MO,1,1,1,1,1
+Yabucoa Municipio,PR,0,0,0,0,0
+Yellow Medicine,MN,1,-1,1,1,1
+Zavala,TX,1,-1,1,1,1
+Audubon,IA,1,1,1,0,1
+Barnstable,MA,1,1,1,1,1
+Benton,MS,1,1,1,1,1
+Big Stone,MN,1,1,1,1,1
+Billings,ND,1,1,1,1,1
+Blaine,MT,1,1,1,0,-1
+Brown,WI,1,1,1,1,1
+Buckingham,VA,1,1,1,1,-1
+Burke,NC,-1,-1,-1,-1,-1
+Burlington,NJ,1,1,1,1,1
+Burnett,WI,-1,-1,-1,-1,-1
+Cabell,WV,-1,-1,-1,-1,-1
+Calaveras,CA,1,-1,1,-1,-1
+Caldwell Parish,LA,0,0,0,0,0
+Caldwell,MO,1,1,1,1,1
+Camden,NJ,1,1,1,1,1
+Campbell,WY,1,-1,-1,-1,-1
+Cass,MI,-1,-1,-1,-1,-1
+Cherry,NE,1,1,1,-1,1
+Cheyenne,NE,1,1,1,1,1
+Chittenden,VT,1,1,1,1,1
+Clay,WV,-1,-1,-1,-1,-1
+Coke,TX,1,1,1,1,1
+Collier,FL,1,-1,-1,-1,-1
+Comerío Municipio,PR,0,0,0,0,0
+Cowlitz,WA,-1,-1,-1,-1,-1
+Curry,OR,-1,-1,-1,-1,1
+Cuyahoga,OH,-1,-1,-1,-1,-1
+Dane,WI,-1,-1,-1,-1,-1
+Dauphin,PA,1,1,1,1,1
+Davis,UT,-1,-1,-1,-1,-1
+DeKalb,AL,-1,1,1,1,1
+Delaware,PA,1,1,1,1,1
+Denton,TX,-1,-1,-1,-1,-1
+Deuel,NE,1,1,1,1,1
+Dickinson,MI,1,1,1,1,1
+Erath,TX,-1,1,1,1,1
+Essex,MA,-1,-1,-1,-1,-1
+Fayette,GA,-1,-1,-1,-1,-1
+Fayette,TN,1,1,1,1,1
+Florence,WI,1,1,1,1,1
+Grayson,VA,-1,-1,-1,-1,-1
+Grenada,MS,-1,-1,1,1,-1
+Gulf,FL,1,1,1,1,1
+Hall,NE,-1,-1,-1,-1,-1
+Hamilton,TN,1,1,1,1,1
+Hancock,IN,-1,-1,-1,-1,-1
+Hardin,KY,-1,1,1,1,1
+Hawaii,HI,-1,-1,-1,-1,-1
+Henderson,KY,1,1,1,1,1
+Highland,VA,-1,-1,-1,-1,-1
+Ionia,MI,1,1,1,1,1
+Jefferson,FL,-1,-1,-1,-1,-1
+Jefferson,MS,1,1,1,-1,1
+Johnson,IL,1,1,1,1,-1
+Kenedy,TX,1,1,1,1,1
+Kitsap,WA,1,1,1,1,1
+Klickitat,WA,-1,-1,-1,-1,-1
+Kodiak Island Borough,AK,-1,-1,-1,-1,-1
+Lackawanna,PA,1,1,1,1,1
+Lawrence,OH,-1,-1,-1,-1,-1
+Lebanon,PA,1,1,1,1,1
+Licking,OH,1,-1,1,-1,-1
+Lincoln,ID,-1,-1,-1,1,1
+Long,GA,1,1,1,1,1
+Luzerne,PA,1,1,1,1,1
+Madison,NC,-1,-1,-1,-1,-1
+Mahaska,IA,1,1,1,1,1
+Marengo,AL,1,1,1,1,1
+Marion,KS,-1,-1,-1,-1,-1
+Mayagüez Municipio,PR,0,0,0,0,0
+McCormick,SC,1,1,1,1,1
+McKenzie,ND,0,1,1,1,1
+Meigs,OH,1,-1,1,1,-1
+Mifflin,PA,1,1,1,1,-1
+Monroe,GA,1,-1,1,1,-1
+Monroe,TN,-1,-1,-1,-1,-1
+Morgan,MO,1,1,1,1,1
+Newaygo,MI,1,1,1,1,1
+Newton,AR,1,1,1,1,1
+Niagara,NY,1,1,1,1,1
+Oregon,MO,1,1,1,1,-1
+Pike,AR,1,1,1,1,1
+Pike,PA,-1,-1,-1,-1,-1
+Pontotoc,OK,1,1,1,1,1
+Preston,WV,-1,-1,-1,-1,-1
+Reagan,TX,-1,-1,-1,-1,-1
+Ripley,IN,1,-1,1,1,1
+Rockingham,NC,-1,-1,-1,-1,1
+Roseau,MN,-1,-1,-1,-1,-1
+Sabana Grande Municipio,PR,0,0,0,0,0
+Seminole,FL,-1,1,1,1,1
+Sheridan,KS,-1,1,-1,-1,-1
+Sioux,IA,1,1,1,-1,-1
+Snyder,PA,-1,-1,-1,-1,-1
+Sullivan,NH,1,1,1,1,-1
+Sullivan,TN,-1,-1,-1,-1,-1
+Talladega,AL,1,1,1,1,1
+Tallahatchie,MS,1,1,1,1,1
+Terrebonne Parish,LA,0,0,0,0,0
+Terry,TX,1,1,1,1,1
+Thayer,NE,1,1,1,1,1
+Uintah,UT,-1,-1,-1,-1,-1
+Walla Walla,WA,-1,-1,-1,-1,1
+Warren,PA,-1,-1,-1,-1,1
+Washington,KY,1,1,1,1,1
+Wayne,MO,1,1,1,1,1
+Wheeler,TX,1,-1,1,1,1
+White,IN,-1,0,-1,-1,-1
+Whitfield,GA,1,1,1,1,1
+Wythe,VA,-1,-1,-1,-1,1
+Yauco Municipio,PR,0,0,0,0,0
+Ada,ID,1,-1,-1,-1,-1
+Alexander,IL,1,-1,-1,-1,1
+Aransas,TX,1,1,1,1,1
+Autauga,AL,1,1,1,1,1
+Big Horn,WY,-1,-1,-1,-1,-1
+Bladen,NC,1,1,1,1,1
+Boyd,NE,1,-1,1,1,1
+Bristol,MA,1,-1,-1,-1,-1
+Burke,ND,1,1,1,1,1
+Butler,NE,1,1,1,1,1
+Cache,UT,1,1,1,1,1
+Calhoun,AL,1,1,1,1,1
+Calumet,WI,-1,-1,-1,-1,-1
+Carroll,KY,1,1,1,1,1
+Chesterfield,VA,1,1,1,1,1
+Clark,KY,1,1,1,1,1
+Clinton,MO,1,1,1,1,1
+Coffee,AL,1,1,1,1,1
+Cottle,TX,1,1,1,1,1
+Dawson,NE,1,1,1,1,1
+Dougherty,GA,-1,-1,-1,-1,-1
+Elmore,ID,-1,1,-1,-1,-1
+Fillmore,NE,1,1,1,1,1
+Fisher,TX,1,-1,1,-1,1
+Foster,ND,-1,-1,1,1,-1
+Franklin,VT,1,1,1,1,1
+Gage,NE,1,1,1,1,1
+Georgetown,SC,1,1,1,1,1
+Grundy,IA,1,1,1,1,1
+Hancock,MS,-1,-1,-1,-1,-1
+Hart,GA,1,1,1,1,-1
+Hickman,KY,1,1,1,1,1
+Houston,AL,1,1,1,1,1
+Howard,MO,-1,1,1,1,1
+Hudspeth,TX,1,1,1,1,1
+Hyde,SD,-1,-1,-1,-1,-1
+Jefferson,MT,-1,-1,-1,-1,-1
+Jewell,KS,-1,-1,-1,-1,-1
+Johnson,TX,-1,-1,-1,-1,-1
+Kalkaska,MI,1,1,1,1,1
+Koochiching,MN,-1,1,1,-1,1
+Lafayette,FL,-1,-1,-1,1,1
+Lafayette,MS,1,1,1,-1,1
+Lamar,MS,1,-1,-1,-1,-1
+Laramie,WY,-1,-1,-1,-1,-1
+Las Marías Municipio,PR,0,0,0,0,0
+Lauderdale,MS,1,-1,-1,-1,0
+Lawrence,TN,-1,-1,-1,-1,-1
+Lincoln,OK,1,1,1,1,1
+Live Oak,TX,1,1,1,1,-1
+Logan,KY,1,1,1,1,1
+Macon,AL,1,1,1,1,-1
+Meigs,TN,-1,-1,-1,-1,-1
+Mineral,MT,1,-1,1,1,1
+Montgomery,KY,1,1,1,1,-1
+Morgan,IL,0,0,1,-1,-1
+Nassau,FL,-1,-1,-1,-1,-1
+Nevada,CA,-1,-1,-1,-1,-1
+Nicholas,KY,1,1,1,-1,1
+Northampton,PA,1,1,1,1,1
+Oliver,ND,-1,-1,-1,-1,-1
+Panola,MS,1,-1,-1,1,1
+Payne,OK,1,1,1,1,1
+Posey,IN,1,1,1,1,1
+Prince William,VA,-1,-1,-1,-1,-1
+Raleigh,WV,-1,-1,-1,-1,-1
+Rappahannock,VA,-1,-1,-1,-1,-1
+Rensselaer,NY,1,1,1,1,1
+Renville,ND,1,1,1,1,1
+Roanoke city,VA,1,1,1,1,1
+Rockdale,GA,-1,-1,-1,-1,-1
+Sevier,AR,1,1,1,1,1
+Skagway Municipality,AK,0,0,0,0,0
+St. Clair,AL,-1,-1,-1,-1,-1
+St. Landry Parish,LA,0,0,0,0,0
+Stark,ND,1,1,1,1,1
+Stone,MO,-1,-1,-1,-1,-1
+Summit,CO,1,1,1,1,1
+Swisher,TX,1,1,1,-1,1
+Tioga,PA,-1,-1,-1,-1,-1
+Utuado Municipio,PR,0,0,0,0,0
+Venango,PA,-1,-1,-1,-1,-1
+Volusia,FL,-1,-1,-1,-1,-1
+Watauga,NC,1,1,-1,1,1
+Wayne,IL,1,1,1,1,1
+Webster,WV,-1,-1,-1,-1,-1
+Wyandotte,KS,1,1,1,1,1
+Wyoming,WV,-1,-1,-1,-1,-1
+Yamhill,OR,-1,-1,-1,-1,-1
+Zapata,TX,1,-1,1,-1,1
+Allen,KS,-1,-1,-1,-1,-1
+Amelia,VA,-1,-1,-1,-1,-1
+Anderson,KY,1,1,1,1,1
+Andrews,TX,1,1,1,1,1
+Appomattox,VA,-1,-1,-1,-1,-1
+Arenac,MI,1,1,1,1,1
+Armstrong,PA,1,-1,1,1,1
+Audrain,MO,1,1,1,1,1
+Avery,NC,1,1,1,1,1
+Bedford,TN,-1,-1,-1,-1,-1
+Bexar,TX,1,1,1,1,1
+Bland,VA,-1,-1,-1,-1,-1
+Bond,IL,1,1,1,1,1
+Boone,NE,1,1,1,1,1
+Bowie,TX,-1,1,1,1,-1
+Brazoria,TX,1,1,1,1,1
+Butler,IA,1,1,1,1,1
+Cabo Rojo Municipio,PR,0,0,0,0,0
+Caldwell,TX,1,1,1,1,1
+Canóvanas Municipio,PR,0,0,0,0,0
+Chatham,GA,1,1,1,1,1
+Clay,MN,1,1,1,1,1
+Clinton,IL,1,1,1,1,1
+Coamo Municipio,PR,0,0,0,0,0
+El Paso,TX,1,1,1,1,1
+Elbert,CO,-1,-1,-1,-1,-1
+Frederick,MD,-1,-1,-1,-1,-1
+Geary,KS,-1,-1,-1,-1,-1
+Genesee,MI,-1,-1,-1,-1,-1
+Glenn,CA,-1,-1,-1,-1,-1
+Graves,KY,1,1,1,1,1
+Greene,MO,-1,-1,-1,-1,-1
+Harrison,MO,1,1,1,1,1
+Hillsborough,NH,1,1,1,1,1
+Horry,SC,-1,-1,-1,-1,-1
+Hughes,OK,1,1,1,1,1
+Jackson,AR,1,1,1,1,1
+Jackson,SD,-1,1,-1,-1,-1
+Jefferson,KS,-1,-1,0,1,1
+Johnson,IN,-1,-1,-1,-1,-1
+Jones,NC,1,1,1,-1,-1
+Kingfisher,OK,1,-1,1,1,1
+Larimer,CO,1,1,1,1,1
+Lassen,CA,-1,-1,-1,-1,-1
+Leslie,KY,-1,1,1,1,1
+Madison,NE,1,1,1,1,1
+Mahnomen,MN,-1,-1,-1,-1,-1
+Manatí Municipio,PR,0,0,0,0,0
+Marshall,KY,1,1,1,1,1
+Mason,MI,1,1,1,1,1
+Matagorda,TX,1,1,1,1,1
+Meade,KS,-1,-1,-1,-1,-1
+Mercer,ND,1,1,1,-1,1
+Merrick,NE,1,1,1,1,1
+Mineral,NV,1,-1,1,-1,1
+Mitchell,KS,-1,-1,-1,-1,-1
+Moniteau,MO,-1,1,1,1,1
+Monongalia,WV,-1,-1,-1,-1,-1
+Monroe,MI,1,1,1,1,1
+Nacogdoches,TX,1,1,1,1,1
+Northern Mariana Islands,MP,0,0,0,0,0
+Ocean,NJ,-1,-1,-1,-1,-1
+Ohio,WV,-1,-1,-1,-1,-1
+Osceola,MI,1,1,1,1,1
+Ottawa,MI,1,1,1,1,1
+Ottawa,OK,1,1,1,1,1
+Palo Pinto,TX,1,1,1,1,1
+Pawnee,KS,-1,-1,-1,-1,-1
+Perry,MO,1,1,1,1,1
+Person,NC,-1,1,1,1,1
+Phelps,MO,1,1,1,1,1
+Putnam,NY,-1,-1,-1,-1,-1
+Ralls,MO,1,1,1,1,1
+Randolph,GA,-1,-1,-1,-1,-1
+Rawlins,KS,-1,-1,-1,-1,1
+Richland,MT,-1,-1,-1,-1,-1
+Robertson,KY,1,1,1,1,1
+Rogers,OK,-1,-1,-1,-1,-1
+Saline,MO,1,1,1,1,1
+San Francisco,CA,1,1,1,-1,1
+San Germán Municipio,PR,0,0,0,0,0
+Sarasota,FL,1,1,1,1,1
+Screven,GA,1,1,1,1,1
+Snohomish,WA,-1,-1,-1,-1,-1
+St. Francois,MO,1,1,1,1,1
+St. Louis city,MO,1,1,1,1,1
+Sterling,TX,1,1,1,1,1
+Surry,NC,1,1,1,1,1
+Tangipahoa Parish,LA,0,0,0,0,0
+Tehama,CA,-1,-1,-1,-1,1
+Umatilla,OR,-1,-1,-1,-1,-1
+Wabasha,MN,-1,-1,-1,-1,-1
+Warrick,IN,1,1,1,1,1
+Wasatch,UT,-1,-1,-1,-1,-1
+Weber,UT,-1,-1,-1,-1,-1
+Wilkinson,GA,-1,-1,-1,1,-1
+Winnebago,IA,1,1,1,1,-1
+Wise,TX,-1,-1,-1,-1,-1
+Accomack,VA,-1,-1,-1,-1,-1
+Adams,IL,-1,1,1,1,1
+Alachua,FL,1,1,1,1,1
+American Samoa,AS,0,0,0,0,0
+Antelope,NE,1,1,1,1,1
+Archer,TX,1,1,1,1,1
+Arlington,VA,-1,-1,-1,-1,-1
+Aroostook,ME,1,1,1,1,1
+Atchison,MO,1,1,1,1,-1
+Bates,MO,1,1,1,1,1
+Belknap,NH,1,1,1,1,1
+Bell,TX,1,1,1,1,1
+Blanco,TX,1,1,1,1,1
+Bonner,ID,-1,1,-1,-1,-1
+Bonneville,ID,-1,-1,-1,-1,-1
+Boone,IA,1,1,1,1,-1
+Bossier Parish,LA,0,0,0,0,0
+Boulder,CO,-1,-1,-1,-1,-1
+Butler,OH,1,1,1,1,1
+Butte,SD,-1,-1,-1,-1,-1
+Carter,KY,1,1,1,1,1
+Cataño Municipio,PR,0,0,0,0,0
+Charleston,SC,1,-1,-1,-1,-1
+Charlotte,VA,-1,-1,-1,-1,-1
+Clay,MO,1,1,1,1,1
+Cleveland,NC,1,1,1,1,1
+Columbia,OR,-1,-1,-1,-1,-1
+Deschutes,OR,-1,-1,-1,-1,-1
+Doddridge,WV,1,1,1,-1,1
+Dunklin,MO,1,1,1,1,1
+Dunn,WI,-1,-1,-1,-1,1
+East Baton Rouge Parish,LA,0,0,0,0,0
+Franklin city,VA,1,-1,-1,-1,-1
+Gilchrist,FL,1,1,1,1,1
+Gilpin,CO,-1,-1,-1,-1,-1
+Gloucester,NJ,1,1,1,1,1
+Gordon,GA,-1,1,1,1,-1
+Grainger,TN,-1,-1,-1,-1,-1
+Gray,TX,1,1,1,1,1
+Grayson,KY,-1,1,1,1,-1
+Greene,IL,-1,-1,-1,1,-1
+Greenville,SC,1,1,1,1,1
+Griggs,ND,1,1,1,-1,-1
+Grundy,TN,-1,-1,-1,-1,-1
+Hall,GA,1,1,1,1,1
+Harris,TX,1,1,1,1,1
+Hartley,TX,1,1,1,1,1
+Howard,TX,1,1,1,1,1
+Hudson,NJ,1,1,1,1,1
+Huntington,IN,-1,1,-1,1,1
+Jackson,WI,-1,-1,-1,-1,-1
+Jasper,MO,1,1,1,1,1
+Kent,DE,-1,1,1,1,1
+Kootenai,ID,-1,-1,-1,-1,-1
+Lafayette Parish,LA,0,0,0,0,0
+Lee,AL,0,-1,1,1,1
+Lee,VA,-1,-1,-1,-1,-1
+Los Angeles,CA,-1,-1,-1,-1,-1
+Loíza Municipio,PR,0,0,0,0,0
+Madison,IA,1,1,1,1,1
+Marion,AL,1,1,1,1,1
+Monmouth,NJ,-1,-1,-1,-1,-1
+Morgan,IN,-1,-1,-1,-1,-1
+Mower,MN,-1,-1,-1,-1,-1
+Muhlenberg,KY,1,-1,1,1,1
+Murray,MN,1,1,1,-1,1
+Muskingum,OH,1,1,1,1,-1
+Noble,OH,1,-1,1,1,1
+Oldham,KY,1,1,1,1,1
+Ontario,NY,1,1,1,1,1
+Pend Oreille,WA,1,1,1,1,1
+Pendleton,KY,1,1,1,1,1
+Perry,IL,1,0,1,1,1
+Powell,KY,1,1,1,1,1
+Preble,OH,-1,1,1,-1,1
+Richland Parish,LA,0,0,0,0,0
+Richmond,NC,1,1,1,1,1
+Riley,KS,-1,-1,-1,-1,-1
+Rio Blanco,CO,1,1,1,1,1
+Roane,TN,-1,-1,-1,-1,-1
+Saline,IL,-1,-1,1,1,-1
+Sherman,NE,1,-1,1,-1,-1
+Skagit,WA,-1,-1,-1,-1,-1
+Skamania,WA,-1,-1,-1,-1,-1
+Stanley,SD,-1,-1,-1,-1,-1
+Suffolk,NY,-1,-1,-1,-1,-1
+Sunflower,MS,-1,-1,-1,-1,1
+Taliaferro,GA,1,1,1,1,-1
+Tallapoosa,AL,-1,1,1,1,1
+Taylor,TX,1,1,1,1,1
+Trempealeau,WI,-1,-1,-1,-1,-1
+Tuscaloosa,AL,-1,-1,-1,-1,-1
+Union,KY,1,1,1,1,1
+Val Verde,TX,1,1,1,1,1
+Vinton,OH,1,1,1,1,1
+Walsh,ND,-1,-1,1,-1,1
+Washington,AR,-1,-1,-1,-1,-1
+Washington,PA,1,1,1,1,1
+Wayne,IN,-1,-1,-1,-1,-1
+White Pine,NV,-1,-1,-1,-1,1
+Willacy,TX,1,1,1,-1,1
+Woodruff,AR,1,1,1,1,1
+Wyandot,OH,1,1,1,1,1
+Yadkin,NC,1,1,1,1,1
+York,SC,1,1,1,1,1
+Allegany,NY,-1,-1,-1,1,-1
+Allen Parish,LA,0,0,0,0,0
+Anderson,SC,1,1,1,1,1
+Baltimore,MD,-1,-1,-1,-1,-1
+Barton,MO,1,1,1,1,1
+Bear Lake,ID,1,1,1,1,1
+Beaverhead,MT,-1,-1,-1,-1,-1
+Benton,WA,-1,-1,-1,-1,-1
+Bollinger,MO,1,-1,-1,-1,1
+Bristol,RI,1,1,1,1,1
+Brooks,GA,1,1,1,1,1
+Buffalo,SD,-1,-1,-1,-1,-1
+Burt,NE,1,1,1,1,1
+Carroll,AR,-1,1,1,1,1
+Chariton,MO,1,1,1,1,-1
+Cherokee,SC,1,1,1,1,1
+Chilton,AL,-1,-1,-1,-1,-1
+Clark,AR,1,1,1,1,1
+Clark,SD,-1,-1,-1,-1,-1
+Clay,IL,1,-1,1,1,-1
+Clinton,IN,-1,-1,-1,-1,-1
+Colfax,NM,1,1,1,1,1
+Crawford,MO,-1,1,1,1,1
+Creek,OK,-1,-1,-1,-1,-1
+Dallas,AR,1,1,1,1,1
+Davie,NC,1,1,1,1,1
+Dawson,GA,-1,-1,-1,-1,-1
+Dodge,NE,1,1,1,1,1
+Douglas,MN,-1,-1,-1,-1,-1
+Durham,NC,-1,1,1,1,1
+Eddy,ND,-1,-1,1,-1,-1
+El Dorado,CA,1,1,1,1,-1
+Erie,NY,1,1,1,1,1
+Fentress,TN,-1,-1,-1,-1,-1
+Garden,NE,1,1,1,1,1
+Gila,AZ,-1,-1,-1,-1,-1
+Golden Valley,ND,1,1,1,1,1
+Grand,CO,1,1,1,1,1
+Grant,OK,1,1,1,1,1
+Greenwood,SC,1,1,1,1,1
+Hand,SD,-1,1,-1,1,-1
+Harrison,TX,1,1,1,1,1
+Henry,IA,1,-1,-1,-1,-1
+Highlands,FL,1,0,1,1,-1
+Howard,IN,-1,-1,-1,-1,-1
+Iowa,WI,-1,-1,-1,-1,-1
+Jasper,IL,1,-1,1,1,1
+Jefferson Parish,LA,0,0,0,0,0
+Jefferson,WA,-1,-1,-1,-1,1
+Kearney,NE,1,1,1,1,1
+Knox,KY,1,0,1,-1,1
+Lake,SD,-1,1,-1,-1,-1
+Lexington,SC,1,1,1,1,1
+Lincoln,NM,1,1,1,1,1
+Lincoln,WV,-1,-1,-1,-1,-1
+Livingston,NY,1,1,1,1,1
+Logan,AR,-1,1,1,1,1
+Lorain,OH,-1,-1,-1,-1,-1
+Luquillo Municipio,PR,0,0,0,0,0
+Lyon,KY,1,1,1,-1,1
+Madison,OH,1,-1,1,-1,-1
+Maverick,TX,1,1,1,1,1
+McCurtain,OK,1,1,1,1,1
+McPherson,NE,1,1,1,1,1
+Mecosta,MI,1,1,1,1,1
+Middlesex,CT,1,1,1,1,1
+Monona,IA,1,1,1,-1,1
+Montezuma,CO,1,1,1,1,1
+Montgomery,AR,-1,1,1,1,1
+Montgomery,PA,1,1,1,1,1
+Multnomah,OR,-1,-1,-1,-1,-1
+Orleans Parish,LA,0,0,0,0,0
+Park,CO,-1,-1,-1,-1,-1
+Pasquotank,NC,-1,1,1,1,1
+Pierce,WA,-1,-1,-1,-1,-1
+Platte,MO,1,1,1,1,1
+Platte,WY,-1,-1,-1,1,-1
+Powder River,MT,1,-1,-1,1,-1
+Queens,NY,0,0,0,0,0
+Rapides Parish,LA,0,0,0,0,0
+Roberts,SD,-1,-1,-1,1,1
+Salinas Municipio,PR,0,0,0,0,0
+Scotland,MO,1,1,1,1,1
+Stark,OH,1,0,1,1,1
+Tensas Parish,LA,0,0,0,0,0
+Teton,WY,1,-1,-1,-1,-1
+Tipton,TN,1,1,1,1,1
+Warren,NC,-1,1,1,1,1
+Washington,WI,1,1,1,1,1
+Waushara,WI,-1,-1,-1,-1,-1
+Wayne,MS,1,1,1,1,1
+Webster,MO,-1,-1,-1,-1,-1
+Wells,IN,1,1,1,1,1
+Westmoreland,PA,1,1,1,1,1
+Wilson,TN,1,1,1,1,1
+York,PA,-1,-1,-1,-1,-1
+Yukon-Koyukuk Census Area,AK,-1,-1,-1,-1,-1
+Adams,IN,-1,-1,-1,-1,-1
+Allamakee,IA,1,1,1,-1,1
+Alpine,CA,1,-1,1,-1,1
+Amherst,VA,-1,-1,-1,-1,-1
+Baker,GA,-1,-1,-1,-1,-1
+Baltimore city,MD,-1,-1,-1,-1,-1
+Bent,CO,1,1,1,1,1
+Bradford,PA,-1,0,-1,-1,-1
+Broome,NY,1,1,1,1,1
+Brown,NE,1,1,1,1,1
+Buffalo,WI,-1,-1,-1,-1,-1
+Burke,GA,-1,-1,-1,-1,-1
+Camp,TX,1,1,1,1,1
+Cass,MN,1,-1,-1,-1,-1
+Cavalier,ND,1,1,1,0,-1
+Cimarron,OK,1,1,1,-1,1
+Claiborne Parish,LA,0,0,0,0,0
+Clark,WI,-1,-1,1,1,-1
+Clay,TX,1,1,1,1,1
+Colonial Heights city,VA,1,1,1,1,1
+Conejos,CO,1,1,1,1,1
+Craighead,AR,1,-1,-1,-1,-1
+Crawford,IL,1,-1,1,1,1
+Danville city,VA,-1,-1,-1,-1,-1
+Douglas,MO,1,1,1,1,1
+DuPage,IL,1,1,1,1,1
+Duplin,NC,1,1,1,1,-1
+Emporia city,VA,-1,-1,-1,-1,1
+Fayette,WV,-1,-1,-1,-1,1
+Franklin,MO,1,1,1,1,1
+Fremont,WY,0,-1,-1,-1,1
+Fresno,CA,1,1,1,1,1
+Fulton,OH,1,-1,-1,-1,-1
+Greene,IN,-1,-1,-1,1,-1
+Harrison,IN,1,1,1,1,1
+Hemphill,TX,1,1,1,1,1
+Henry,OH,1,1,1,1,1
+Hill,TX,1,1,1,1,1
+Holmes,OH,1,1,1,1,1
+Humphreys,MS,1,1,1,1,1
+Hutchinson,TX,1,1,1,1,1
+Hyde,NC,-1,-1,-1,-1,-1
+Imperial,CA,-1,-1,-1,-1,-1
+Indian River,FL,-1,-1,-1,1,-1
+Inyo,CA,1,1,1,0,1
+Jasper,TX,1,1,1,1,1
+Jefferson,AL,-1,-1,-1,-1,-1
+Jefferson,NY,1,-1,1,-1,-1
+Johnson,KS,1,1,1,1,1
+Jones,IA,1,1,1,1,1
+Kalamazoo,MI,1,-1,1,-1,1
+Kennebec,ME,1,1,1,1,1
+Kenosha,WI,-1,-1,-1,-1,-1
+Kiowa,OK,1,1,1,1,1
+Lake and Peninsula Borough,AK,-1,-1,-1,-1,-1
+Larue,KY,-1,1,1,1,1
+Letcher,KY,1,1,1,1,1
+Lipscomb,TX,1,1,1,-1,-1
+Livingston Parish,LA,0,0,0,0,0
+Luna,NM,1,1,1,1,1
+Lycoming,PA,1,1,1,1,1
+Macoupin,IL,-1,1,1,1,1
+Madison,GA,-1,-1,-1,-1,-1
+Madison,TN,1,-1,1,-1,1
+Marshall,SD,-1,-1,-1,1,-1
+Mason,WV,-1,-1,-1,-1,-1
+McCracken,KY,1,1,1,1,1
+McHenry,IL,1,1,1,1,1
+Mercer,OH,1,1,1,1,1
+Mills,IA,1,1,1,1,1
+Minidoka,ID,1,-1,1,1,1
+Missaukee,MI,1,1,1,1,1
+Monroe,WV,-1,-1,-1,-1,-1
+Morehouse Parish,LA,0,0,0,0,0
+Nantucket,MA,1,1,1,1,1
+Northampton,NC,1,1,1,1,-1
+Orleans,NY,1,1,1,1,1
+Osage,OK,-1,-1,-1,-1,-1
+Pacific,WA,-1,-1,-1,-1,-1
+Perry,IN,-1,-1,-1,-1,1
+Pettis,MO,1,1,1,1,1
+Pocahontas,WV,-1,-1,-1,-1,-1
+Polk,MN,1,1,1,1,1
+Quay,NM,1,1,1,1,1
+Red Lake,MN,1,-1,1,1,1
+Rich,UT,-1,-1,-1,-1,-1
+Ritchie,WV,-1,-1,-1,-1,-1
+Rockingham,NH,1,1,1,1,1
+Sagadahoc,ME,1,1,1,1,1
+Schuylkill,PA,-1,-1,-1,-1,-1
+Smith,TX,1,1,1,1,1
+St. Joseph,IN,-1,-1,-1,-1,-1
+Stone,MS,1,1,1,1,1
+Sutton,TX,1,1,1,1,1
+Sweet Grass,MT,-1,-1,-1,-1,-1
+Taylor,FL,-1,-1,-1,-1,-1
+Toa Alta Municipio,PR,0,0,0,0,0
+Union,SC,-1,-1,-1,-1,-1
+Wadena,MN,1,1,1,1,-1
+Whitley,IN,1,1,1,1,1
+Yuba,CA,-1,-1,-1,-1,-1
+Abbeville,SC,1,1,1,1,1
+Adams,MS,1,1,1,1,-1
+Albemarle,VA,1,1,1,1,1
+Athens,OH,-1,1,1,1,1
+Barbour,WV,-1,-1,-1,-1,1
+Barry,MI,1,1,1,1,1
+Bay,MI,1,1,1,1,1
+Bee,TX,1,1,1,1,1
+Ben Hill,GA,-1,-1,-1,1,1
+Bethel Census Area,AK,-1,-1,-1,-1,-1
+Bibb,AL,-1,-1,-1,-1,-1
+Big Horn,MT,-1,-1,-1,-1,-1
+Blount,TN,-1,-1,-1,-1,-1
+Bronx,NY,0,0,0,0,0
+Burleigh,ND,-1,-1,-1,-1,-1
+Calhoun,SC,1,1,1,1,1
+Camden,MO,1,1,1,1,1
+Camuy Municipio,PR,0,0,0,0,0
+Cape May,NJ,1,1,1,1,1
+Carbon,PA,1,1,1,1,1
+Cass,MO,1,1,1,1,1
+Catron,NM,1,1,1,1,1
+Charles City,VA,1,1,1,1,1
+Chester,SC,1,1,1,1,1
+Chesterfield,SC,1,1,1,1,1
+Citrus,FL,-1,1,1,1,1
+Clarke,IA,1,1,1,1,1
+Clay,IN,1,1,1,1,-1
+Clearfield,PA,0,1,1,1,1
+Columbia,FL,-1,-1,-1,-1,-1
+Columbiana,OH,1,1,1,1,1
+Conway,AR,1,1,1,1,1
+Crittenden,KY,1,-1,1,1,1
+Cumberland,IL,-1,1,1,1,1
+Dade,MO,1,1,1,1,-1
+Door,WI,1,-1,-1,-1,-1
+Douglas,IL,-1,-1,-1,-1,-1
+Douglas,OR,-1,-1,-1,-1,-1
+Duchesne,UT,-1,1,-1,-1,-1
+Fairbanks North Star Borough,AK,1,1,1,1,1
+Fannin,TX,-1,1,1,1,1
+Fluvanna,VA,1,1,1,1,1
+Franklin,IL,-1,1,1,1,1
+Fredericksburg city,VA,-1,-1,-1,-1,-1
+Fulton,GA,-1,-1,-1,-1,-1
+Gadsden,FL,-1,-1,-1,-1,-1
+Giles,TN,-1,-1,-1,-1,-1
+Greeley,NE,1,1,1,1,1
+Greene,MS,1,1,-1,-1,-1
+Hanover,VA,1,1,1,1,1
+Hardeman,TX,1,1,1,1,1
+Harper,KS,-1,-1,-1,-1,-1
+Harrison,MS,-1,-1,-1,-1,-1
+Henry,GA,-1,-1,-1,-1,-1
+Henry,TN,-1,-1,-1,-1,1
+Herkimer,NY,1,1,1,1,1
+Hopkins,KY,1,1,1,1,1
+Iberville Parish,LA,0,0,0,0,0
+Jackson,NC,1,1,1,-1,-1
+James City,VA,0,0,0,0,0
+Jasper,IN,-1,-1,-1,-1,-1
+Jefferson,CO,-1,-1,-1,-1,-1
+Karnes,TX,1,1,1,1,1
+Kent,TX,1,1,1,1,1
+Kings,CA,-1,-1,-1,-1,-1
+Kit Carson,CO,1,1,1,1,1
+Knott,KY,1,-1,1,-1,1
+La Crosse,WI,1,1,1,1,1
+Lake of the Woods,MN,-1,-1,-1,-1,-1
+Lamar,AL,1,1,1,1,1
+Lauderdale,AL,1,-1,1,1,-1
+Laurens,GA,1,1,1,1,-1
+Lee,KY,1,1,1,-1,1
+Lewis,WA,-1,-1,-1,-1,-1
+Lincoln,MN,1,1,1,1,1
+Llano,TX,1,1,1,1,1
+Lowndes,GA,1,1,1,1,1
+Madison,ID,-1,-1,-1,-1,-1
+Marion,KY,1,-1,1,1,1
+Milwaukee,WI,1,1,1,1,1
+Mineral,CO,1,1,1,1,1
+Muskogee,OK,1,1,1,1,1
+Nassau,NY,-1,-1,-1,-1,-1
+Nemaha,KS,1,-1,-1,-1,-1
+Noble,OK,1,1,1,1,1
+Norton city,VA,-1,-1,-1,-1,-1
+Nowata,OK,1,1,1,1,1
+Noxubee,MS,1,0,1,-1,-1
+Nuckolls,NE,1,1,1,-1,-1
+Oconto,WI,1,1,1,1,1
+Otero,NM,1,1,1,1,1
+Owyhee,ID,1,-1,-1,-1,-1
+Perry,MS,1,-1,-1,-1,-1
+Pickens,AL,-1,-1,0,-1,-1
+Pinellas,FL,-1,1,0,-1,-1
+Polk,MO,-1,-1,-1,-1,1
+Ransom,ND,1,1,1,1,1
+Rutland,VT,1,-1,-1,-1,1
+Scott,MN,1,1,1,1,1
+Seneca,NY,-1,-1,-1,1,1
+Shoshone,ID,-1,-1,-1,-1,-1
+St. Tammany Parish,LA,0,0,0,0,0
+Sumter,GA,-1,-1,-1,1,-1
+Switzerland,IN,1,-1,-1,-1,1
+Thomas,KS,-1,1,-1,-1,-1
+Union,AR,1,1,1,-1,-1
+Union,PA,-1,-1,-1,-1,-1
+Union,SD,1,1,1,1,1
+Vernon Parish,LA,0,0,0,0,0
+Walker,GA,1,1,1,1,1
+Washburn,WI,-1,-1,-1,-1,-1
+Wetzel,WV,-1,1,-1,-1,-1
+Wrangell City and Borough,AK,-1,-1,-1,-1,-1
+Yancey,NC,-1,1,1,1,1
+Appling,GA,1,1,1,-1,1
+Assumption Parish,LA,0,0,0,0,0
+Atascosa,TX,1,1,1,1,1
+Atkinson,GA,1,1,1,1,1
+Banks,GA,1,1,1,1,1
+Bannock,ID,-1,-1,-1,-1,-1
+Breckinridge,KY,1,1,1,1,1
+Brown,OH,1,1,1,1,1
+Calhoun,AR,1,1,1,1,1
+Cass,IL,1,-1,1,1,-1
+Cassia,ID,-1,-1,-1,-1,-1
+Charlevoix,MI,1,1,1,1,1
+Chester,PA,1,1,1,1,1
+Clarion,PA,1,1,1,1,1
+Clay,FL,-1,-1,-1,-1,-1
+Clay,MS,1,1,1,1,-1
+Clear Creek,CO,-1,-1,-1,-1,-1
+Coal,OK,1,1,1,1,1
+Coconino,AZ,-1,1,1,1,0
+Corson,SD,-1,1,-1,-1,-1
+Crawford,IN,-1,-1,-1,1,1
+Crisp,GA,1,1,1,1,1
+Crowley,CO,1,1,1,1,1
+Cullman,AL,1,1,1,1,1
+Dare,NC,1,1,1,1,1
+De Baca,NM,1,1,1,1,1
+Delaware,IA,1,1,1,1,-1
+Dodge,GA,1,1,1,1,1
+Dunn,ND,1,1,1,1,1
+Effingham,GA,1,1,1,1,1
+Elliott,KY,1,1,1,1,1
+Fairfield,OH,1,-1,1,-1,-1
+Franklin,TX,1,1,1,1,1
+Galveston,TX,1,1,1,1,1
+Garfield,MT,1,1,1,-1,1
+Gosper,NE,1,1,1,-1,-1
+Grant,NM,1,1,1,1,1
+Grant,WV,-1,-1,-1,-1,-1
+Gray,KS,1,-1,-1,-1,-1
+Guernsey,OH,1,1,1,1,1
+Habersham,GA,1,-1,-1,-1,-1
+Hampden,MA,-1,-1,-1,-1,-1
+Harford,MD,-1,-1,-1,-1,-1
+Henderson,NC,-1,-1,-1,-1,-1
+Iosco,MI,1,1,1,1,-1
+Jack,TX,1,1,1,-1,-1
+Jasper,MS,-1,-1,-1,-1,-1
+Jay,IN,-1,-1,-1,1,-1
+Jefferson Davis Parish,LA,0,0,0,0,0
+Jones,GA,1,1,1,1,1
+King George,VA,-1,-1,-1,-1,1
+La Plata,CO,1,1,1,1,1
+Lapeer,MI,1,1,1,1,1
+Leflore,MS,1,1,1,1,1
+Lewis,NY,-1,-1,-1,-1,1
+Liberty,GA,1,1,1,1,1
+Lincoln,MO,1,1,1,1,1
+Lincoln,WY,-1,-1,-1,-1,-1
+Linn,MO,1,-1,1,1,1
+Livingston,KY,1,1,-1,1,-1
+Major,OK,1,1,1,1,1
+Menominee,MI,1,1,1,1,1
+Middlesex,MA,-1,-1,-1,-1,-1
+Mille Lacs,MN,1,1,1,-1,1
+Morton,KS,-1,-1,-1,-1,-1
+Muscatine,IA,1,1,1,1,-1
+New Madrid,MO,1,1,1,1,1
+Ontonagon,MI,1,-1,1,-1,1
+Polk,OR,1,1,1,1,1
+Potter,PA,-1,-1,-1,-1,-1
+Potter,SD,-1,1,-1,-1,-1
+Prairie,MT,-1,-1,-1,-1,-1
+Pulaski,GA,1,1,1,1,1
+Randolph,WV,-1,-1,-1,-1,-1
+Redwood,MN,1,1,1,-1,1
+Rincón Municipio,PR,0,0,0,0,0
+Robeson,NC,1,1,1,1,1
+Sac,IA,1,-1,1,-1,-1
+San Benito,CA,-1,-1,-1,-1,-1
+Schuyler,MO,1,1,1,-1,1
+Scott,MO,1,1,1,1,1
+Shelby,IA,1,1,1,1,-1
+Shiawassee,MI,1,1,1,1,1
+Smith,MS,1,1,1,-1,1
+St. Lucie,FL,-1,-1,-1,-1,-1
+Stanton,KS,1,1,1,1,1
+Story,IA,1,1,1,1,1
+Tazewell,VA,-1,-1,-1,-1,-1
+Texas,OK,1,1,1,1,1
+Toa Baja Municipio,PR,0,0,0,0,0
+Trigg,KY,-1,-1,-1,-1,-1
+Tulsa,OK,-1,-1,-1,-1,-1
+Upson,GA,-1,1,-1,1,1
+Victoria,TX,1,-1,-1,-1,-1
+Wabash,IL,-1,-1,-1,-1,-1
+Walworth,SD,-1,-1,-1,-1,-1
+Warren,IA,1,1,1,1,1
+Washington,NC,1,1,1,1,1
+Whiteside,IL,1,1,-1,-1,1
+Wood,WI,-1,-1,-1,-1,-1
+Woodson,KS,-1,-1,-1,-1,-1
+Yankton,SD,-1,-1,-1,-1,-1
+Yell,AR,-1,1,1,1,1
+Yolo,CA,1,1,1,1,1
+Aguada Municipio,PR,0,0,0,0,0
+Aiken,SC,-1,-1,-1,-1,-1
+Alleghany,VA,-1,-1,-1,-1,-1
+Allen,KY,1,1,1,1,1
+Ashe,NC,1,1,1,1,1
+Barren,KY,-1,-1,-1,-1,-1
+Bowman,ND,1,1,1,1,1
+Bradley,AR,1,1,1,1,-1
+Bryan,GA,1,1,1,1,1
+Buchanan,IA,1,1,1,1,1
+Burnet,TX,1,1,1,1,-1
+Carson,TX,-1,1,1,-1,1
+Cass,TX,1,1,1,1,1
+Cedar,NE,1,1,1,1,1
+Chattooga,GA,-1,-1,-1,1,1
+Chickasaw,IA,1,-1,1,1,-1
+Clarke,GA,-1,-1,-1,-1,-1
+Defiance,OH,1,1,1,1,1
+Delaware,OH,1,-1,1,-1,-1
+Delta,MI,1,-1,1,1,1
+District of Columbia,DC,-1,-1,-1,-1,-1
+Elk,KS,-1,-1,-1,-1,-1
+Emmet,IA,1,1,1,1,1
+Essex,NJ,1,1,1,1,1
+Floyd,IA,1,1,1,-1,-1
+Franklin,IN,1,1,1,1,1
+Green Lake,WI,-1,-1,-1,-1,-1
+Halifax,VA,-1,-1,-1,-1,-1
+Heard,GA,-1,-1,-1,-1,-1
+Hendricks,IN,-1,-1,-1,-1,-1
+Hettinger,ND,1,1,1,1,1
+Hill,MT,-1,-1,-1,-1,-1
+Itasca,MN,-1,1,1,1,1
+Jeff Davis,TX,-1,-1,-1,-1,-1
+Jefferson,KY,1,1,1,1,1
+Jenkins,GA,1,1,1,1,1
+Kankakee,IL,-1,-1,-1,1,1
+La Salle Parish,LA,0,0,0,0,0
+Lavaca,TX,1,1,1,1,1
+Leake,MS,1,1,1,1,-1
+Lee,SC,1,-1,1,1,1
+Lincoln,OR,-1,-1,-1,-1,-1
+Linn,OR,1,-1,-1,-1,-1
+Louisa,VA,-1,-1,-1,-1,-1
+Lyman,SD,-1,-1,-1,-1,-1
+Marion,SC,0,1,1,1,1
+Mariposa,CA,-1,-1,-1,-1,-1
+Martin,MN,-1,-1,-1,-1,-1
+McCreary,KY,1,-1,1,1,1
+McDowell,NC,1,1,1,1,1
+Meade,KY,1,1,1,1,1
+Menard,IL,1,1,1,1,1
+Mercer,NJ,1,-1,-1,1,-1
+Mesa,CO,-1,-1,-1,-1,-1
+Miami,IN,-1,-1,-1,-1,-1
+Mississippi,AR,1,1,1,1,1
+Monroe,MO,1,1,1,1,1
+Montague,TX,1,1,1,1,1
+Montgomery,NC,1,1,1,1,-1
+Moore,TX,1,1,1,1,1
+Neosho,KS,-1,-1,-1,-1,-1
+Neshoba,MS,1,1,1,1,1
+Norton,KS,1,-1,-1,-1,-1
+Ogemaw,MI,-1,1,1,-1,-1
+Ohio,IN,1,1,1,1,1
+Pembina,ND,1,1,1,-1,-1
+Pike,OH,1,1,1,1,1
+Polk,TX,1,1,1,1,1
+Ponce Municipio,PR,0,0,0,0,0
+Pottawatomie,KS,-1,-1,-1,-1,-1
+Pottawattamie,IA,1,1,1,1,1
+Prentiss,MS,-1,1,1,1,1
+Racine,WI,1,1,1,1,1
+Real,TX,1,1,1,1,1
+Richmond,GA,-1,-1,-1,-1,-1
+Roane,WV,-1,-1,-1,-1,-1
+Roosevelt,NM,1,1,1,1,1
+Sabine Parish,LA,0,0,0,0,0
+Salem city,VA,1,1,1,1,1
+Saline,KS,1,-1,-1,-1,-1
+Schuyler,IL,1,1,1,1,1
+Scott,IL,1,1,1,1,1
+Shelby,OH,1,1,1,1,1
+Spencer,KY,1,1,1,1,1
+Starr,TX,1,1,1,1,1
+Sullivan,MO,1,1,1,1,1
+Thurston,NE,1,1,1,1,1
+Todd,MN,-1,1,-1,-1,-1
+Ulster,NY,1,1,1,1,1
+Walworth,WI,-1,-1,-1,-1,-1
+Warren,OH,1,1,1,1,1
+Watonwan,MN,1,1,1,1,1
+Webster,MS,1,1,1,1,-1
+Weld,CO,1,1,1,1,1
+Williams,ND,1,1,1,1,1
+Woodford,KY,1,1,1,1,1
+Ascension Parish,LA,0,0,0,0,0
+Ashley,AR,1,1,1,1,1
+Atchison,KS,1,-1,-1,1,1
+Bandera,TX,1,1,1,1,1
+Barnwell,SC,1,1,1,1,-1
+Breathitt,KY,1,1,1,-1,1
+Briscoe,TX,1,-1,1,-1,1
+Brookings,SD,-1,-1,-1,-1,-1
+Campbell,VA,-1,-1,-1,-1,-1
+Casey,KY,1,1,1,1,1
+Cass,IN,-1,1,-1,-1,-1
+Cedar,IA,1,1,1,1,1
+Cherokee,NC,1,1,1,1,1
+Chippewa,WI,1,1,1,1,1
+Clackamas,OR,-1,-1,-1,-1,-1
+Clay,KS,-1,-1,-1,-1,-1
+Clinch,GA,1,1,1,1,1
+Costilla,CO,1,1,1,1,1
+Crittenden,AR,1,1,1,1,1
+Crockett,TX,1,-1,1,1,1
+Custer,MT,-1,-1,-1,-1,-1
+Dixon,NE,1,1,1,1,1
+Donley,TX,1,1,1,-1,1
+Dundy,NE,-1,-1,-1,-1,-1
+Eaton,MI,1,1,1,1,1
+Eau Claire,WI,1,1,1,1,1
+Emmons,ND,1,1,1,1,1
+Evans,GA,-1,-1,1,1,-1
+Fayette,IL,-1,1,-1,-1,-1
+Franklin,FL,1,-1,-1,-1,-1
+Franklin,MS,1,-1,1,-1,1
+Gallia,OH,1,1,1,1,1
+Garza,TX,1,1,1,1,-1
+George,MS,-1,-1,-1,1,-1
+Grand Isle,VT,1,1,1,1,1
+Granite,MT,-1,-1,-1,-1,-1
+Grant,MN,1,-1,1,1,-1
+Grimes,TX,1,1,1,1,-1
+Hamilton,IL,1,1,0,1,1
+Hancock,KY,1,-1,1,-1,1
+Harnett,NC,1,1,1,1,1
+Honolulu,HI,-1,-1,-1,-1,-1
+Hooker,NE,1,1,1,1,1
+Humacao Municipio,PR,0,0,0,0,0
+Irion,TX,1,1,1,1,1
+Jackson,IA,1,1,1,-1,-1
+Juana Díaz Municipio,PR,0,0,0,0,0
+Kingman,KS,-1,1,-1,-1,-1
+LaMoure,ND,1,1,1,1,1
+Las Animas,CO,1,1,1,1,1
+Lawrence,MO,1,1,1,1,1
+Le Flore,OK,1,1,1,1,1
+Lee,AR,1,1,1,1,-1
+Logan,ND,-1,-1,1,1,1
+Macomb,MI,1,1,1,1,1
+Marion,AR,1,1,1,1,1
+Mason,IL,1,1,1,1,1
+McLean,IL,1,1,1,1,1
+Menard,TX,1,1,1,1,1
+Mingo,WV,-1,-1,-1,-1,-1
+Monroe,IL,1,1,1,1,1
+Morgan,AL,-1,1,1,1,-1
+Newton,GA,-1,-1,-1,-1,-1
+Obion,TN,-1,-1,-1,-1,-1
+Oconee,GA,-1,-1,-1,-1,-1
+Orange,NC,-1,1,1,1,1
+Pike,GA,-1,-1,-1,-1,-1
+Piscataquis,ME,1,1,1,1,1
+Pueblo,CO,1,1,1,1,1
+Rains,TX,1,1,1,1,1
+Rosebud,MT,1,-1,-1,-1,1
+San Juan,NM,-1,-1,-1,-1,-1
+San Juan,UT,1,1,1,1,1
+Sanders,MT,-1,-1,-1,-1,-1
+Shawnee,KS,-1,-1,0,1,1
+Shelby,TN,1,1,1,1,1
+Smith,KS,-1,-1,-1,1,-1
+Southeast Fairbanks Census Area,AK,-1,-1,-1,-1,1
+Stafford,KS,-1,-1,-1,-1,-1
+Steele,MN,-1,-1,-1,-1,-1
+Sussex,NJ,1,1,1,1,1
+Teton,MT,-1,-1,-1,-1,-1
+Travis,TX,1,1,1,1,1
+Turner,SD,1,1,1,1,1
+Union Parish,LA,0,0,0,0,0
+Wabash,IN,1,-1,-1,-1,-1
+Warren,GA,1,1,1,1,-1
+Warren,TN,-1,-1,-1,-1,-1
+Waseca,MN,-1,1,1,1,-1
+Washington,MD,1,1,1,1,1
+Washington,NE,1,1,1,1,1
+Washington,RI,1,1,1,1,1
+Washita,OK,1,1,1,1,1
+Wayne,NY,1,1,1,1,1
+Wichita,TX,1,1,1,1,1
+Windham,CT,-1,1,1,1,-1
+Wise,VA,-1,-1,-1,-1,-1
+Adams,WA,-1,-1,-1,-1,-1
+Aguas Buenas Municipio,PR,0,0,0,0,0
+Alamosa,CO,1,1,1,1,1
+Allegheny,PA,1,1,1,1,1
+Androscoggin,ME,1,1,1,1,1
+Baldwin,AL,1,1,1,1,1
+Barranquitas Municipio,PR,0,0,0,0,0
+Barton,KS,-1,-1,-1,1,1
+Berkeley,WV,-1,1,1,1,1
+Boone,WV,-1,-1,-1,-1,1
+Bryan,OK,1,1,1,1,1
+Buena Vista,IA,1,1,1,1,1
+Buffalo,NE,1,1,1,1,1
+Carlton,MN,1,1,1,1,1
+Caroline,MD,-1,-1,-1,1,1
+Carroll,MD,-1,-1,-1,-1,-1
+Castro,TX,1,1,1,1,1
+Cayey Municipio,PR,0,0,0,0,0
+Chenango,NY,-1,-1,-1,-1,-1
+Churchill,NV,-1,-1,-1,-1,-1
+Clallam,WA,-1,-1,-1,-1,-1
+Clayton,IA,-1,1,1,1,1
+Cleveland,OK,-1,-1,-1,-1,-1
+Clinton,NY,1,1,1,1,1
+Coffey,KS,-1,-1,-1,-1,1
+Colbert,AL,1,-1,1,1,-1
+Columbia,WA,-1,-1,-1,-1,1
+Cooper,MO,1,1,1,1,1
+Craven,NC,1,-1,-1,-1,-1
+Crawford,KS,-1,-1,-1,-1,-1
+Crenshaw,AL,1,1,1,1,1
+Crook,WY,-1,-1,-1,1,-1
+Darlington,SC,1,1,1,-1,1
+Decatur,IA,-1,1,1,1,-1
+Desha,AR,1,1,1,1,1
+East Carroll Parish,LA,0,0,0,0,0
+El Paso,CO,-1,-1,-1,-1,-1
+Elkhart,IN,1,1,1,1,1
+Erie,PA,1,1,1,1,1
+Essex,VT,-1,-1,-1,-1,-1
+Fayette,TX,1,1,1,1,1
+Floyd,GA,-1,1,1,1,1
+Ford,IL,-1,-1,-1,-1,-1
+Garfield,WA,-1,-1,-1,-1,1
+Gibson,TN,-1,-1,-1,-1,-1
+Glynn,GA,1,1,1,1,1
+Gogebic,MI,1,0,1,-1,-1
+Goodhue,MN,1,1,1,1,-1
+Guayama Municipio,PR,0,0,0,0,0
+Hamilton,TX,1,1,1,1,1
+Hardin,IA,1,1,1,-1,1
+Hocking,OH,1,1,-1,1,1
+Holt,NE,1,1,1,1,1
+Hood,TX,1,-1,-1,-1,-1
+Iowa,IA,1,1,1,1,-1
+Isabela Municipio,PR,0,0,0,0,0
+Jackson,OH,1,1,1,1,-1
+Kern,CA,1,1,1,-1,1
+Lampasas,TX,1,1,1,-1,1
+Lancaster,VA,-1,-1,-1,-1,-1
+Lawrence,IL,1,-1,-1,1,1
+Le Sueur,MN,-1,1,1,-1,1
+Lemhi,ID,-1,-1,-1,-1,-1
+Lewis,KY,1,1,1,-1,1
+Logan,NE,1,1,1,1,1
+Mason,TX,1,1,1,-1,1
+McLennan,TX,-1,-1,-1,-1,-1
+McMinn,TN,1,1,1,-1,1
+Miller,AR,-1,1,1,1,-1
+Montgomery,MD,-1,-1,-1,-1,-1
+Morgan,CO,1,1,1,1,1
+Musselshell,MT,-1,-1,-1,-1,-1
+Nobles,MN,-1,-1,-1,-1,-1
+Ozaukee,WI,1,1,1,1,1
+Palo Alto,IA,1,1,1,1,-1
+Polk,FL,1,1,1,1,1
+Pontotoc,MS,-1,1,1,1,1
+Poquoson city,VA,-1,-1,-1,-1,-1
+Providence,RI,1,1,1,1,1
+Pushmataha,OK,1,1,1,1,1
+Randolph,MO,1,1,1,1,1
+Rhea,TN,-1,-1,-1,-1,-1
+Rice,MN,-1,-1,-1,-1,-1
+Ringgold,IA,1,1,1,-1,-1
+Russell,KS,1,-1,-1,-1,-1
+Salt Lake,UT,-1,-1,-1,-1,-1
+San Bernardino,CA,1,1,1,1,1
+Santa Rosa,FL,-1,1,1,1,1
+Scioto,OH,1,1,1,1,1
+Scott,IN,1,1,1,1,1
+Sevier,TN,-1,-1,1,1,1
+St. Martin Parish,LA,0,0,0,0,0
+St. Mary Parish,LA,0,0,0,0,0
+Tate,MS,-1,0,1,1,1
+Terrell,GA,-1,-1,-1,-1,-1
+Throckmorton,TX,1,-1,1,1,1
+Tripp,SD,-1,-1,-1,-1,-1
+Union,NC,1,1,1,1,1
+Valley,MT,-1,-1,-1,-1,-1
+Van Buren,AR,1,1,1,1,1
+Vega Alta Municipio,PR,0,0,0,0,0
+Vernon,WI,-1,-1,-1,-1,-1
+Ward,TX,1,1,1,1,1
+Washington,IA,-1,-1,-1,-1,-1
+Washington,ME,1,1,1,1,1
+Wilcox,GA,1,1,1,1,1
+York,NE,1,1,1,1,1
+Adair,KY,-1,1,1,1,-1
+Aleutians West Census Area,AK,-1,-1,-1,-1,-1
+Alpena,MI,1,-1,1,-1,1
+Angelina,TX,1,1,1,1,1
+Archuleta,CO,1,1,1,1,1
+Baxter,AR,1,1,1,1,1
+Becker,MN,-1,-1,-1,-1,-1
+Benton,AR,-1,-1,-1,-1,-1
+Bingham,ID,-1,-1,-1,-1,-1
+Bosque,TX,1,1,1,1,1
+Brunswick,VA,-1,-1,-1,-1,-1
+Bullock,AL,1,1,1,1,1
+Bureau,IL,-1,-1,-1,-1,-1
+Caddo Parish,LA,0,0,0,0,0
+Carroll,IA,1,1,1,-1,1
+Chisago,MN,1,1,1,1,1
+Columbia,NY,1,1,1,1,1
+Contra Costa,CA,1,1,1,1,1
+Cooke,TX,1,1,1,1,1
+Cottonwood,MN,1,1,1,1,-1
+Crook,OR,-1,-1,-1,-1,-1
+Culberson,TX,1,1,1,1,1
+Dakota,NE,1,1,1,1,1
+Dallas,IA,1,1,1,1,1
+Delaware,OK,1,1,1,1,1
+Dewey,SD,-1,-1,-1,-1,-1
+Dickens,TX,1,-1,1,1,1
+Dorchester,SC,1,-1,-1,-1,-1
+Douglas,KS,-1,-1,0,-1,-1
+Douglas,NV,-1,-1,-1,-1,-1
+East Feliciana Parish,LA,0,0,0,0,0
+Edmonson,KY,1,1,1,1,0
+Fayette,IN,-1,-1,-1,-1,-1
+Fillmore,MN,1,-1,-1,-1,-1
+Franklin,KS,1,-1,-1,-1,-1
+Galax city,VA,-1,-1,-1,-1,-1
+Grant,OR,-1,-1,-1,-1,-1
+Greene,AL,1,1,1,1,1
+Greene,NY,1,1,1,1,1
+Greene,VA,1,1,1,1,1
+Grundy,MO,1,1,1,1,1
+Guilford,NC,-1,-1,-1,-1,-1
+Hamilton,IN,-1,-1,-1,-1,-1
+Hardin,OH,-1,1,1,1,1
+Harmon,OK,1,1,1,1,-1
+Hodgeman,KS,-1,-1,-1,-1,-1
+Humboldt,IA,1,1,1,1,1
+Indiana,PA,1,-1,-1,-1,-1
+Irwin,GA,1,1,1,1,1
+Jackson,GA,-1,-1,-1,-1,1
+Jackson,TN,-1,-1,-1,1,-1
+Jefferson,AR,1,1,1,1,-1
+Jefferson,PA,1,-1,1,-1,1
+Jo Daviess,IL,1,1,1,1,1
+Johnson,KY,1,0,1,1,1
+Kalawao,HI,0,0,0,0,0
+Lincoln,MS,1,1,1,-1,-1
+Loudon,TN,-1,-1,-1,-1,-1
+Macon,NC,1,1,1,1,1
+Maries,MO,1,1,1,1,1
+Martin,TX,1,1,1,-1,-1
+Meade,SD,1,1,1,1,1
+Medina,OH,-1,-1,-1,-1,-1
+Mercer,WV,1,-1,-1,-1,-1
+Miami,KS,1,1,1,1,1
+Mobile,AL,-1,-1,-1,-1,-1
+Monroe,IN,1,1,1,1,1
+Montgomery,IA,1,-1,-1,-1,-1
+New Castle,DE,1,1,1,1,1
+Nome Census Area,AK,-1,-1,-1,-1,-1
+Osage,MO,-1,1,-1,-1,-1
+Page,IA,1,1,1,1,1
+Perry,AL,-1,1,1,1,1
+Pickens,SC,1,1,1,1,1
+Randolph,IL,1,-1,1,-1,1
+Red River,TX,1,1,1,1,1
+Richland,SC,1,1,1,1,1
+Rolette,ND,1,1,1,0,-1
+Rowan,KY,1,-1,1,1,1
+Rusk,TX,-1,-1,-1,-1,-1
+San Augustine,TX,1,1,1,1,1
+Sandoval,NM,1,1,1,1,1
+Sandusky,OH,1,1,1,1,1
+Scott,MS,1,1,1,1,1
+Seward,NE,-1,-1,-1,-1,-1
+Sharp,AR,1,1,1,1,1
+St. Charles Parish,LA,0,0,0,0,0
+St. James Parish,LA,0,0,0,0,0
+Stearns,MN,1,1,1,1,1
+Sullivan,IN,1,1,1,1,-1
+Titus,TX,1,1,1,1,1
+Tucker,WV,-1,-1,-1,-1,-1
+Vilas,WI,-1,-1,-1,-1,-1
+Walton,GA,0,0,0,0,0
+Warren,NJ,1,1,1,1,1
+Washington,OH,1,1,1,1,1
+Williams,OH,-1,-1,-1,-1,-1
+York,ME,-1,-1,-1,-1,-1
+Yuma,AZ,1,1,1,1,1
+Adams,CO,-1,-1,-1,-1,-1
+Aibonito Municipio,PR,0,0,0,0,0
+Austin,TX,-1,1,1,1,1
+Añasco Municipio,PR,0,0,0,0,0
+Barry,MO,1,1,1,1,1
+Belmont,OH,-1,-1,-1,-1,-1
+Bennington,VT,-1,-1,-1,-1,-1
+Black Hawk,IA,1,1,1,1,1
+Burleson,TX,-1,-1,-1,-1,-1
+Butler,MO,1,1,1,1,1
+Calcasieu Parish,LA,0,0,0,0,0
+Caldwell,KY,1,1,1,1,1
+Campbell,KY,1,1,1,1,1
+Caribou,ID,-1,-1,1,1,1
+Carolina Municipio,PR,0,0,0,0,0
+Carroll,OH,1,0,1,1,1
+Cherokee,IA,1,-1,1,1,1
+Cidra Municipio,PR,0,0,0,0,0
+Clark,OH,1,1,1,1,1
+Clay,AL,1,1,1,1,1
+Clayton,GA,-1,-1,-1,-1,-1
+Codington,SD,-1,-1,-1,-1,-1
+Comanche,OK,1,-1,-1,-1,1
+Coos,NH,1,1,1,1,1
+Dearborn,IN,1,1,1,1,1
+Decatur,GA,1,1,1,1,1
+Decatur,TN,-1,-1,-1,-1,-1
+Dickinson,KS,-1,-1,-1,-1,-1
+Eagle,CO,1,1,1,1,1
+Ellsworth,KS,-1,-1,-1,-1,-1
+Emmet,MI,1,1,1,1,1
+Evangeline Parish,LA,0,0,0,0,0
+Fall River,SD,-1,-1,-1,-1,-1
+Frontier,NE,1,1,1,1,1
+Garfield,CO,1,1,1,1,1
+Gillespie,TX,1,1,1,1,1
+Gilmer,GA,1,1,1,1,1
+Gladwin,MI,1,1,1,1,-1
+Graham,KS,-1,-1,-1,-1,-1
+Gregory,SD,-1,1,-1,-1,-1
+Grundy,IL,-1,-1,-1,1,-1
+Guayanilla Municipio,PR,0,0,0,0,0
+Hamilton,FL,-1,-1,-1,-1,1
+Hardin,TN,-1,-1,-1,-1,-1
+Harding,NM,1,1,1,1,1
+Haskell,OK,1,1,1,1,1
+Haywood,NC,-1,-1,-1,-1,-1
+Henderson,TN,-1,1,-1,1,-1
+Ingham,MI,1,1,1,1,1
+Iron,WI,1,1,1,-1,-1
+Jefferson,WI,-1,-1,-1,-1,-1
+Johnston,NC,-1,-1,-1,-1,-1
+Judith Basin,MT,1,1,1,-1,1
+Kerr,TX,1,1,1,1,-1
+Kleberg,TX,1,1,1,1,1
+Lafayette,AR,1,1,1,1,1
+Lake,OH,-1,-1,-1,-1,-1
+Lawrence,IN,-1,-1,-1,-1,-1
+Levy,FL,-1,-1,-1,-1,-1
+Lincoln,MT,-1,-1,-1,-1,-1
+Logan,OH,1,1,1,1,1
+Love,OK,-1,1,1,1,1
+Mahoning,OH,-1,-1,-1,-1,-1
+Marshall,IA,1,-1,-1,1,-1
+Martin,IN,-1,-1,-1,1,-1
+Milam,TX,1,1,1,1,1
+Millard,UT,-1,1,1,-1,-1
+Modoc,CA,-1,-1,-1,-1,-1
+Monroe,FL,-1,-1,-1,-1,-1
+Monroe,MS,1,1,1,1,1
+Montgomery,OH,1,1,1,1,1
+Morgan,KY,1,1,1,1,1
+Muscogee,GA,1,1,1,1,1
+Naguabo Municipio,PR,0,0,0,0,0
+Nottoway,VA,-1,-1,-1,-1,-1
+Osceola,FL,-1,1,1,1,1
+Ouray,CO,1,1,1,1,1
+Pickaway,OH,1,-1,1,-1,-1
+Pierce,WI,1,1,1,1,1
+Plymouth,MA,-1,-1,-1,-1,-1
+Pointe Coupee Parish,LA,0,0,0,0,0
+Pondera,MT,-1,1,-1,-1,1
+Presque Isle,MI,1,-1,1,1,1
+Randall,TX,-1,1,1,-1,1
+Renville,MN,1,1,1,1,1
+Saginaw,MI,1,1,1,1,1
+San Lorenzo Municipio,PR,0,0,0,0,0
+Sanborn,SD,-1,1,-1,1,-1
+Shasta,CA,1,1,1,1,1
+Spink,SD,-1,-1,-1,-1,-1
+Stafford,VA,-1,-1,-1,-1,-1
+Stokes,NC,1,1,1,1,1
+Suffolk,MA,-1,-1,-1,-1,-1
+Sumner,TN,1,1,1,1,1
+Tippah,MS,1,1,1,1,1
+Tompkins,NY,1,1,1,1,1
+Trujillo Alto Municipio,PR,0,0,0,0,0
+Vega Baja Municipio,PR,0,0,0,0,0
+Vermilion,IL,1,1,1,1,1
+Vigo,IN,1,1,1,1,-1
+Virginia Beach city,VA,-1,-1,-1,-1,-1
+Wapello,IA,1,1,1,1,1
+Washington Parish,LA,0,0,0,0,0
+Washington,GA,1,1,1,1,1
+Washington,TN,1,1,1,1,1
+Washtenaw,MI,1,1,1,1,1
+Wayne,KY,-1,1,1,1,1
+White,AR,-1,1,1,1,1
+Anoka,MN,1,1,1,1,1
+Apache,AZ,1,1,1,1,1
+Banner,NE,1,1,1,1,1
+Bell,KY,1,1,1,1,1
+Beltrami,MN,-1,-1,-1,-1,-1
+Berkshire,MA,-1,-1,-1,-1,-1
+Bolivar,MS,1,1,1,1,1
+Boone,MO,-1,-1,-1,-1,-1
+Boyle,KY,1,1,1,1,1
+Butte,ID,-1,-1,-1,-1,-1
+Cameron,TX,-1,-1,-1,-1,-1
+Carroll,GA,-1,-1,-1,-1,-1
+Carroll,NH,1,1,1,1,1
+Carroll,TN,-1,-1,-1,1,1
+Cattaraugus,NY,-1,0,-1,-1,-1
+Charlottesville city,VA,1,1,1,1,1
+Chase,NE,1,1,1,1,1
+Christian,MO,-1,-1,-1,-1,-1
+Clinton,KY,1,1,1,1,1
+Cocke,TN,-1,-1,-1,-1,-1
+Dillingham Census Area,AK,-1,-1,-1,-1,-1
+Dooly,GA,0,-1,-1,-1,1
+Douglas,WA,-1,1,-1,-1,1
+Eddy,NM,1,1,1,1,1
+Estill,KY,1,-1,1,1,-1
+Forrest,MS,1,-1,-1,-1,-1
+Franklin,WA,-1,-1,-1,-1,-1
+Gasconade,MO,1,1,1,-1,1
+Geneva,AL,1,1,1,1,1
+Grant,IN,-1,-1,1,-1,-1
+Greensville,VA,-1,-1,-1,-1,1
+Gurabo Municipio,PR,0,0,0,0,0
+Hall,TX,1,-1,1,-1,1
+Hampshire,MA,-1,-1,-1,-1,-1
+Hansford,TX,1,1,1,1,1
+Hayes,NE,0,0,0,0,0
+Hickman,TN,1,1,1,1,1
+Hidalgo,NM,-1,-1,1,1,1
+Jackson Parish,LA,0,0,0,0,0
+Jackson,MI,1,1,1,1,1
+Jackson,OK,1,-1,1,1,1
+Jerome,ID,1,1,1,1,1
+Jim Hogg,TX,-1,-1,-1,-1,-1
+Juniata,PA,1,-1,1,1,1
+Kidder,ND,1,1,1,-1,-1
+Kimball,NE,1,-1,1,1,1
+Knox,NE,1,1,1,1,1
+Lafayette,WI,-1,-1,-1,-1,-1
+Lake,TN,-1,1,-1,1,1
+Lamoille,VT,-1,-1,-1,-1,-1
+Lawrence,MS,1,1,1,1,-1
+Lee,NC,1,1,1,1,1
+Lincoln,KS,-1,-1,-1,-1,-1
+Lincoln,NV,-1,-1,-1,-1,-1
+Linn,KS,1,1,1,1,1
+Madison,MO,1,1,1,1,1
+Martin,FL,-1,-1,-1,-1,-1
+Mayes,OK,1,1,1,1,1
+McIntosh,ND,1,1,1,1,0
+Midland,MI,1,1,1,1,1
+Montgomery,GA,-1,0,1,-1,1
+Montgomery,TN,-1,-1,-1,-1,-1
+Natchitoches Parish,LA,0,0,0,0,0
+New Kent,VA,1,1,1,1,1
+Nicollet,MN,1,1,1,1,1
+Oneida,NY,1,1,1,1,1
+Parmer,TX,1,1,1,1,-1
+Patrick,VA,-1,-1,-1,-1,-1
+Peach,GA,1,1,1,1,1
+Pennington,SD,1,1,1,1,1
+Pratt,KS,-1,-1,-1,1,-1
+Price,WI,1,1,1,-1,1
+Randolph,IN,-1,1,1,1,-1
+Richland,WI,-1,-1,-1,-1,-1
+Rio Grande,CO,1,1,1,1,1
+Russell,AL,1,1,1,1,1
+Russell,VA,-1,1,-1,-1,-1
+Scott,KS,0,-1,-1,1,1
+Stevens,MN,-1,-1,-1,-1,-1
+Strafford,NH,-1,-1,-1,-1,-1
+Taylor,KY,-1,-1,1,1,1
+Texas,MO,1,1,1,1,1
+Treutlen,GA,-1,-1,1,1,1
+Tuscola,MI,1,1,1,1,1
+Union,IA,-1,1,1,1,1
+Washington,ID,-1,1,1,-1,-1
+Waukesha,WI,1,1,1,1,1
+Wichita,KS,-1,-1,-1,-1,-1
+Wilbarger,TX,1,-1,1,-1,1
+Wilkin,MN,1,-1,1,1,-1
+Williamson,TN,1,1,1,1,1
+Winnebago,IL,-1,-1,-1,-1,-1
+Wirt,WV,1,-1,-1,-1,-1
+Wyoming,NY,1,-1,-1,-1,-1
+Amador,CA,-1,-1,-1,-1,-1
+Anderson,TN,-1,-1,-1,-1,-1
+Atoka,OK,1,1,1,1,1
+Avoyelles Parish,LA,0,0,0,0,0
+Baker,OR,-1,-1,-1,-1,-1
+Bamberg,SC,1,1,1,1,1
+Barber,KS,-1,-1,-1,-1,-1
+Beaver,PA,1,1,1,1,1
+Boone,IL,-1,-1,-1,-1,-1
+Box Elder,UT,-1,-1,-1,-1,-1
+Brooks,TX,1,-1,1,1,1
+Buncombe,NC,-1,-1,-1,-1,-1
+Calhoun,IA,1,-1,1,-1,-1
+Catawba,NC,-1,-1,-1,-1,-1
+Chemung,NY,1,1,1,1,1
+Cherokee,GA,-1,-1,-1,-1,-1
+Christian,IL,1,-1,1,1,1
+Clark,ID,-1,-1,-1,-1,-1
+Cumberland,VA,-1,-1,-1,-1,-1
+Custer,CO,1,1,1,1,1
+Darke,OH,1,1,1,1,1
+Dawson,TX,1,1,1,-1,1
+Dillon,SC,1,1,1,1,1
+Dodge,MN,-1,-1,-1,-1,-1
+Edgar,IL,1,1,1,-1,-1
+Fajardo Municipio,PR,0,0,0,0,0
+Franklin,AL,1,1,1,1,1
+Franklin,NY,1,1,1,1,1
+Franklin,VA,1,1,1,1,1
+Freeborn,MN,-1,-1,-1,-1,-1
+Gregg,TX,-1,-1,-1,-1,-1
+Hamilton,KS,1,-1,-1,-1,-1
+Haralson,GA,-1,-1,-1,1,-1
+Harrison,KY,1,1,1,1,0
+Harrisonburg city,VA,1,1,-1,1,-1
+Hempstead,AR,1,1,1,1,1
+Hendry,FL,-1,-1,-1,-1,-1
+Henry,MO,1,1,1,1,1
+Highland,OH,1,1,1,1,1
+Hillsborough,FL,-1,1,0,-1,-1
+Hinds,MS,-1,-1,-1,-1,-1
+Hopewell city,VA,1,1,1,1,1
+Issaquena,MS,1,1,1,1,1
+Johnson,AR,1,1,1,1,1
+Kanabec,MN,-1,-1,-1,-1,1
+Keokuk,IA,1,-1,1,-1,-1
+Knox,ME,1,1,1,1,1
+Lares Municipio,PR,0,0,0,0,0
+Leon,TX,1,-1,1,1,1
+Lyon,IA,1,1,1,-1,1
+Madison,IL,1,1,1,1,1
+Manistee,MI,1,1,1,1,1
+Marshall,TN,-1,-1,-1,-1,-1
+Mercer,MO,1,1,1,1,1
+Otsego,NY,-1,-1,-1,-1,-1
+Ottawa,KS,-1,-1,-1,-1,-1
+Parke,IN,-1,-1,-1,-1,-1
+Perry,KY,1,-1,1,1,1
+Peñuelas Municipio,PR,0,0,0,0,0
+Phillips,MT,1,1,1,1,1
+Pima,AZ,-1,-1,-1,-1,-1
+Pipestone,MN,1,1,1,1,1
+Republic,KS,-1,-1,-1,-1,-1
+Robertson,TN,1,1,1,1,1
+Santa Clara,CA,-1,-1,-1,-1,-1
+Sarpy,NE,1,1,1,1,1
+Schenectady,NY,1,1,1,1,1
+Sheridan,ND,1,1,1,1,1
+Sierra,CA,1,1,1,1,1
+Solano,CA,-1,-1,-1,-1,-1
+Stark,IL,1,1,1,1,1
+Ste. Genevieve,MO,1,1,1,1,1
+Stephens,GA,1,1,1,1,1
+Stewart,GA,1,1,1,1,1
+Stewart,TN,-1,1,-1,-1,-1
+Suffolk city,VA,-1,-1,-1,-1,-1
+Summit,OH,-1,-1,-1,-1,-1
+Sussex,DE,1,1,1,1,1
+Tarrant,TX,-1,-1,-1,-1,-1
+Tunica,MS,1,1,1,1,1
+Union,OH,1,1,1,1,1
+Van Wert,OH,-1,-1,-1,-1,-1
+Van Zandt,TX,1,1,1,1,1
+Washington,OK,1,1,1,1,1
+Whitley,KY,1,1,1,1,1
+Wilkinson,MS,1,1,1,1,-1
+Wilson,TX,1,1,1,1,1
+Winn Parish,LA,0,0,0,0,0
+Winston,MS,1,-1,1,1,1
+Wood,OH,1,-1,-1,-1,-1
+Worcester,MA,1,1,1,1,1
+Worth,IA,1,-1,1,-1,-1
+Yoakum,TX,1,1,1,1,1
+Aguadilla Municipio,PR,0,0,0,0,0
+Albany,WY,-1,-1,-1,-1,-1
+Antrim,MI,1,1,1,1,1
+Auglaize,OH,1,1,1,1,1
+Barnes,ND,1,1,1,1,1
+Berrien,GA,1,1,1,-1,-1
+Blackford,IN,-1,-1,-1,-1,1
+Broward,FL,-1,-1,-1,-1,-1
+Brown,MN,1,-1,1,1,1
+Caddo,OK,1,1,1,1,1
+Campbell,SD,-1,-1,-1,1,1
+Carter,TN,1,1,1,1,1
+Champaign,OH,-1,-1,-1,-1,-1
+Chicot,AR,1,1,1,1,1
+Choctaw,OK,1,1,1,1,1
+Clatsop,OR,-1,-1,-1,-1,-1
+Clay,KY,1,1,1,1,1
+Columbus,NC,1,1,1,1,1
+Covington,MS,-1,1,-1,-1,-1
+DeKalb,GA,-1,-1,-1,-1,-1
+DeKalb,TN,-1,-1,-1,-1,-1
+Denali Borough,AK,-1,-1,-1,-1,-1
+Dona Ana,NM,0,0,0,0,0
+Douglas,CO,-1,-1,-1,-1,-1
+Ector,TX,1,1,1,1,1
+Edwards,IL,1,-1,1,1,-1
+Escambia,FL,-1,1,1,1,1
+Etowah,AL,1,1,-1,-1,1
+Fallon,MT,-1,-1,-1,-1,-1
+Ford,KS,-1,-1,-1,-1,-1
+Freestone,TX,1,1,1,1,-1
+Fremont,CO,1,1,1,1,1
+Fulton,IL,1,-1,-1,0,1
+Geauga,OH,-1,-1,-1,-1,-1
+Green,KY,1,1,1,1,1
+Henry,IL,1,1,1,1,1
+Hitchcock,NE,1,1,1,1,1
+Howell,MO,1,1,1,1,1
+King,TX,0,0,0,0,0
+Knox,OH,1,1,1,1,1
+Lake,MI,1,1,1,1,1
+Lancaster,SC,1,-1,-1,1,1
+Las Piedras Municipio,PR,0,0,0,0,0
+Lincoln,WA,-1,-1,-1,-1,1
+Logan,OK,-1,-1,-1,-1,-1
+Madison,TX,-1,1,-1,-1,-1
+Magoffin,KY,1,1,1,1,1
+Massac,IL,-1,1,-1,1,1
+Mercer,IL,1,1,1,1,1
+Middlesex,NJ,-1,-1,-1,-1,-1
+Mitchell,NC,1,1,1,1,1
+Mountrail,ND,1,1,1,1,1
+Nash,NC,1,1,1,1,1
+New Haven,CT,-1,-1,-1,-1,-1
+Noble,IN,1,1,1,1,1
+Orocovis Municipio,PR,0,0,0,0,0
+Otter Tail,MN,1,-1,-1,-1,-1
+Parker,TX,-1,-1,-1,-1,-1
+Phillips,KS,1,-1,-1,-1,1
+Pope,MN,-1,-1,-1,-1,-1
+Poweshiek,IA,1,1,1,1,-1
+Pulaski,MO,1,1,1,1,1
+Ramsey,ND,1,-1,1,1,-1
+Rock,WI,-1,-1,-1,-1,-1
+Rush,IN,-1,-1,-1,-1,-1
+Santa Fe,NM,1,1,1,1,1
+Sevier,UT,-1,-1,-1,-1,-1
+Sheridan,NE,1,1,1,1,-1
+Sherman,OR,-1,-1,-1,-1,-1
+Sibley,MN,-1,1,-1,1,0
+Sierra,NM,1,1,1,1,1
+Slope,ND,1,1,1,1,1
+Somerset,PA,-1,-1,-1,-1,-1
+Sonoma,CA,-1,-1,-1,-1,-1
+Spokane,WA,1,1,1,1,1
+Steuben,IN,-1,-1,-1,-1,-1
+Sullivan part,MO,0,0,0,0,0
+Tipton,IN,-1,-1,-1,-1,-1
+Twiggs,GA,1,1,1,1,1
+Tyler,WV,-1,-1,-1,-1,1
+Unicoi,TN,1,1,1,1,1
+Union,GA,-1,-1,-1,-1,1
+Union,TN,-1,-1,-1,-1,-1
+Waldo,ME,1,1,1,1,1
+Waller,TX,1,1,1,1,1
+Wayne,PA,-1,1,-1,-1,-1
+Allegan,MI,1,1,1,1,1
+Allegany,MD,-1,1,1,-1,1
+Asotin,WA,-1,-1,-1,-1,-1
+Bailey,TX,1,-1,1,1,1
+Bay,FL,1,1,1,1,1
+Beaufort,SC,1,1,1,1,1
+Blaine,NE,1,1,1,1,1
+Boone,IN,-1,-1,-1,-1,-1
+Bracken,KY,1,1,1,1,1
+Butte,CA,1,1,1,1,1
+Calhoun,GA,1,1,1,-1,1
+Cherokee,OK,-1,1,1,1,1
+Chester,TN,1,-1,1,-1,1
+Clinton,PA,1,-1,-1,-1,-1
+Cobb,GA,-1,-1,-1,-1,-1
+Coffee,GA,-1,-1,1,1,1
+Coffee,TN,-1,-1,-1,-1,-1
+Craig,OK,1,1,1,1,1
+De Soto Parish,LA,0,0,0,0,0
+DeSoto,FL,1,-1,-1,-1,-1
+DeSoto,MS,1,1,1,1,1
+Delta,TX,1,-1,1,1,1
+Dukes,MA,1,1,1,1,1
+Dutchess,NY,1,1,1,1,-1
+Echols,GA,1,1,1,1,1
+Edwards,TX,1,1,1,1,1
+Effingham,IL,1,1,1,1,1
+Elbert,GA,-1,-1,1,1,-1
+Falls,TX,-1,1,-1,1,1
+Flathead,MT,-1,-1,-1,-1,-1
+Garrett,MD,-1,-1,-1,-1,-1
+Gem,ID,1,1,-1,1,-1
+Grant,KS,-1,-1,-1,-1,-1
+Gratiot,MI,1,1,1,1,1
+Grays Harbor,WA,-1,-1,-1,-1,-1
+Guthrie,IA,1,1,1,1,1
+Gwinnett,GA,-1,-1,-1,-1,-1
+Harlan,KY,1,1,1,1,1
+Houston,GA,1,-1,-1,1,0
+Houston,TN,-1,-1,-1,-1,-1
+Howard,AR,-1,1,1,1,1
+Jackson,WV,-1,-1,-1,-1,-1
+Ketchikan Gateway Borough,AK,-1,-1,-1,-1,-1
+Knox,TN,-1,-1,-1,-1,-1
+Kusilvak Census Area,AK,-1,1,-1,-1,-1
+Lancaster,PA,1,1,1,1,1
+Langlade,WI,-1,-1,-1,-1,-1
+Latimer,OK,-1,1,1,1,1
+Lee,IA,1,1,1,1,1
+Leon,FL,-1,-1,-1,-1,-1
+Lucas,IA,1,1,1,1,1
+Lynchburg city,VA,-1,-1,-1,-1,-1
+Macon,GA,1,1,1,1,1
+Macon,TN,-1,-1,1,1,1
+Madison,IN,-1,-1,-1,-1,-1
+Marion,IA,-1,1,1,1,1
+Marshall,OK,1,1,1,1,1
+Mason,WA,-1,-1,-1,-1,-1
+McCone,MT,-1,-1,-1,-1,-1
+Mora,NM,1,1,1,1,1
+Nelson,VA,1,1,1,1,1
+New Hanover,NC,1,1,1,1,1
+Nolan,TX,1,1,1,1,1
+Northumberland,VA,-1,1,-1,-1,-1
+Pierce,ND,1,1,1,1,1
+Plymouth,IA,1,1,1,-1,1
+Pulaski,IL,1,-1,1,-1,-1
+Putnam,OH,1,1,1,1,1
+Quebradillas Municipio,PR,0,0,0,0,0
+Red Willow,NE,1,1,1,1,1
+Reynolds,MO,1,1,1,1,1
+Roanoke,VA,1,1,1,1,1
+Roosevelt,MT,-1,-1,-1,-1,1
+Russell,KY,-1,-1,1,1,1
+San Miguel,NM,1,1,1,1,1
+Sauk,WI,-1,-1,-1,-1,-1
+Saunders,NE,1,1,1,-1,-1
+Schuyler,NY,-1,-1,-1,-1,-1
+Scott,VA,-1,-1,-1,-1,-1
+Shenandoah,VA,-1,-1,-1,-1,-1
+Sherman,TX,1,1,1,1,1
+Stephens,OK,1,1,1,1,1
+Stone,AR,1,1,1,1,1
+Taos,NM,-1,1,1,1,-1
+Teller,CO,-1,-1,-1,-1,-1
+Upton,TX,1,1,1,-1,1
+Valencia,NM,1,1,1,1,1
+Wahkiakum,WA,-1,-1,-1,-1,-1
+Walker,TX,1,1,1,1,1
+Washington,VT,-1,-1,-1,-1,-1
+Webster,KY,1,1,1,1,1
+Westchester,NY,1,-1,-1,-1,-1
+Whitman,WA,-1,-1,-1,-1,-1
+Worth,GA,-1,-1,-1,-1,-1
+Young,TX,1,1,1,1,1
+Adams,PA,1,1,1,1,1
+Adjuntas Municipio,PR,0,0,0,0,0
+Alamance,NC,-1,1,1,1,-1
+Arapahoe,CO,-1,-1,-1,-1,-1
+Augusta,VA,-1,-1,-1,-1,1
+Baca,CO,1,1,1,1,-1
+Baker,FL,-1,1,-1,1,-1
+Baylor,TX,1,-1,1,1,1
+Benson,ND,1,1,1,1,1
+Bernalillo,NM,1,1,1,1,1
+Berrien,MI,-1,1,1,1,1
+Boise,ID,1,-1,-1,-1,-1
+Botetourt,VA,1,1,1,1,1
+Bradley,TN,-1,-1,-1,1,1
+Bristol Bay Borough,AK,-1,-1,-1,-1,-1
+Broomfield,CO,-1,-1,-1,-1,-1
+Brown,IL,-1,-1,-1,-1,-1
+Carter,OK,1,1,1,1,1
+Chambers,TX,1,1,1,1,1
+Cheyenne,KS,1,-1,-1,-1,1
+Columbia,AR,-1,1,1,1,1
+Columbia,PA,1,1,1,1,1
+Converse,WY,-1,-1,-1,-1,-1
+Crow Wing,MN,-1,-1,-1,-1,-1
+Cumberland,KY,-1,1,1,1,1
+Daviess,MO,1,1,1,1,1
+Dawson,MT,-1,-1,-1,-1,-1
+Elk,PA,1,-1,-1,-1,-1
+Ellis,OK,1,1,1,1,1
+Elmore,AL,1,1,1,1,1
+Eureka,NV,-1,-1,-1,-1,-1
+Faulkner,AR,1,1,1,1,1
+Fayette,AL,1,1,1,1,1
+Franklin,KY,1,1,1,1,1
+Fulton,IN,-1,-1,-1,-1,-1
+Gates,NC,-1,1,1,-1,-1
+Genesee,NY,-1,-1,-1,-1,-1
+Gilmer,WV,-1,-1,-1,1,-1
+Glascock,GA,0,1,1,-1,-1
+Greene,AR,1,-1,1,-1,1
+Greene,PA,-1,-1,-1,-1,-1
+Guaynabo Municipio,PR,0,0,0,0,0
+Haakon,SD,-1,-1,-1,-1,-1
+Hamilton,NY,1,1,1,-1,1
+Haywood,TN,1,-1,-1,-1,1
+Henry,IN,-1,-1,-1,-1,-1
+Humboldt,CA,1,1,1,1,-1
+Jasper,SC,1,1,1,1,1
+Jefferson,NE,1,1,1,-1,1
+Jones,TX,1,1,1,1,1
+Kandiyohi,MN,-1,-1,-1,-1,-1
+Kenai Peninsula Borough,AK,-1,-1,-1,-1,-1
+Kenton,KY,1,1,1,1,1
+Kershaw,SC,-1,1,1,1,1
+Kiowa,KS,1,-1,-1,-1,-1
+Kittitas,WA,-1,-1,-1,-1,-1
+Kittson,MN,1,-1,1,1,1
+Lake,CA,1,1,1,1,1
+Liberty,TX,1,1,1,1,1
+Lincoln,CO,1,1,1,1,1
+Little River,AR,1,1,1,1,-1
+Lucas,OH,1,-1,-1,-1,-1
+Madison,FL,1,-1,1,1,-1
+Madison,MS,-1,-1,-1,-1,-1
+Marion,OH,1,1,1,1,1
+McIntosh,GA,1,1,1,1,1
+Merrimack,NH,1,1,1,1,1
+Mills,TX,1,1,1,1,1
+Mohave,AZ,-1,-1,-1,-1,-1
+Monroe,AL,1,1,1,1,1
+Monroe,NY,1,1,1,1,1
+Montour,PA,1,1,1,1,1
+Morrow,OH,1,-1,1,-1,-1
+Newton,MO,1,1,1,1,1
+Oglala Lakota,SD,-1,-1,-1,-1,-1
+Ohio,KY,1,-1,1,1,1
+Osage,KS,-1,-1,0,1,1
+Oscoda,MI,1,1,1,-1,1
+Pawnee,NE,1,1,1,1,1
+Perry,AR,1,1,1,1,1
+Perry,PA,1,1,1,1,1
+Petersburg Borough,AK,0,0,0,0,0
+Pierce,NE,1,1,1,1,1
+Pike,MO,1,1,1,1,1
+Pope,IL,1,1,1,-1,1
+Prairie,AR,1,1,1,1,1
+Putnam,GA,-1,-1,1,1,1
+Putnam,TN,-1,-1,-1,-1,1
+Rice,KS,-1,-1,-1,-1,-1
+Richland,ND,1,1,1,1,1
+Saline,AR,1,1,1,1,1
+Schoharie,NY,1,1,1,1,1
+Sebastian,AR,1,1,1,1,1
+Sharkey,MS,1,1,1,1,1
+Shelby,MO,1,1,1,1,-1
+Sherburne,MN,1,1,1,1,1
+Simpson,MS,-1,-1,-1,-1,1
+Stutsman,ND,1,1,1,1,1
+Sullivan,NY,1,-1,-1,-1,1
+Sutter,CA,-1,-1,-1,-1,-1
+Talbot,MD,-1,-1,-1,-1,-1
+Taney,MO,1,1,1,1,1
+Taylor,WI,1,0,1,-1,1
+Tippecanoe,IN,1,1,1,1,-1
+Traverse,MN,1,1,1,1,1
+Tuscarawas,OH,1,1,1,1,1
+Union,NJ,1,1,1,1,1
+Van Buren,IA,1,-1,1,1,1
+Warren,MO,1,1,1,1,1
+Washington,UT,-1,-1,-1,-1,-1
+Whatcom,WA,-1,-1,-1,-1,-1
+Worcester,MD,1,1,1,1,1
+Adams,WI,-1,-1,-1,-1,-1
+Alleghany,NC,1,1,1,1,1
+Arecibo Municipio,PR,0,0,0,0,0
+Ashtabula,OH,1,1,1,1,1
+Barbour,AL,1,1,1,1,1
+Beauregard Parish,LA,0,0,0,0,0
+Benton,IA,1,1,1,1,1
+Brown,TX,1,1,1,1,1
+Buchanan,MO,-1,-1,-1,-1,-1
+Butler,KS,-1,-1,-1,-1,-1
+Calhoun,MI,1,1,1,1,1
+Calloway,KY,1,1,1,-1,1
+Catahoula Parish,LA,0,0,0,0,0
+Clay,AR,1,1,1,1,-1
+Clay,SD,-1,-1,-1,-1,-1
+Columbia,WI,-1,-1,-1,-1,-1
+Concordia Parish,LA,0,0,0,0,0
+Cuming,NE,1,1,1,1,1
+Dorado Municipio,PR,0,0,0,0,0
+Dorchester,MD,-1,-1,-1,-1,-1
+Edgecombe,NC,1,1,1,1,1
+Erie,OH,1,1,1,1,-1
+Garland,AR,1,1,1,1,1
+Glades,FL,1,1,-1,-1,1
+Gloucester,VA,-1,-1,-1,-1,-1
+Grant,WA,-1,-1,-1,-1,-1
+Greenlee,AZ,1,-1,1,1,1
+Guánica Municipio,PR,0,0,0,0,0
+Halifax,NC,1,1,1,-1,1
+Hidalgo,TX,0,0,1,-1,1
+Hinsdale,CO,1,1,1,1,1
+Holmes,FL,-1,-1,-1,-1,-1
+Holmes,MS,1,1,1,1,-1
+Hoonah-Angoon Census Area,AK,0,0,0,0,0
+Hutchinson,SD,-1,-1,-1,-1,-1
+Idaho,ID,1,1,1,1,-1
+Jackson,MN,1,1,1,1,1
+Jefferson,IA,1,1,1,1,1
+Jerauld,SD,-1,-1,-1,-1,-1
+Kosciusko,IN,-1,1,1,1,1
+Lajas Municipio,PR,0,0,0,0,0
+Lander,NV,-1,-1,-1,1,-1
+Lawrence,AL,-1,1,1,1,-1
+Lee,GA,-1,-1,-1,-1,-1
+Lexington city,VA,-1,-1,-1,-1,1
+Logan,WV,-1,-1,-1,-1,-1
+Lowndes,MS,1,1,1,1,1
+Madison,MT,-1,-1,-1,-1,-1
+Marion,GA,1,1,1,1,1
+Marion,TN,1,1,1,1,1
+McDowell,WV,-1,-1,-1,-1,1
+Mecklenburg,VA,-1,-1,-1,-1,-1
+Missoula,MT,1,1,1,1,1
+Mitchell,IA,1,1,1,1,1
+Morris,NJ,1,1,1,1,1
+Moultrie,IL,1,-1,1,-1,1
+Nicholas,WV,-1,-1,-1,-1,-1
+North Slope Borough,AK,-1,-1,-1,-1,-1
+Nye,NV,-1,-1,-1,-1,1
+O'Brien,IA,1,1,1,-1,-1
+Oklahoma,OK,-1,-1,-1,-1,-1
+Orange,CA,-1,-1,-1,-1,-1
+Orange,VT,-1,-1,-1,-1,-1
+Ouachita Parish,LA,0,0,0,0,0
+Pike,IL,-1,-1,1,1,-1
+Pulaski,IN,-1,1,-1,-1,-1
+Rabun,GA,1,1,1,1,-1
+Radford city,VA,-1,-1,-1,-1,-1
+Rio Arriba,NM,1,1,1,1,1
+Roger Mills,OK,1,-1,1,1,1
+Rooks,KS,-1,-1,-1,-1,-1
+Rowan,NC,1,1,1,1,1
+Rush,KS,-1,-1,-1,-1,-1
+Santa Isabel Municipio,PR,0,0,0,0,0
+Sargent,ND,-1,-1,1,-1,-1
+Scurry,TX,1,1,1,1,1
+Sequatchie,TN,1,1,1,1,1
+Shackelford,TX,1,1,1,-1,1
+Shelby,IL,1,-1,1,-1,-1
+Silver Bow,MT,-1,-1,-1,-1,-1
+Sitka City and Borough,AK,-1,-1,-1,-1,-1
+St. Clair,MI,1,1,1,1,1
+St. John the Baptist Parish,LA,0,0,0,0,0
+Storey,NV,1,1,1,1,1
+Sumter,FL,1,1,1,1,1
+Swift,MN,1,1,1,-1,1
+Toombs,GA,-1,1,1,1,1
+Traill,ND,1,1,1,1,1
+Troup,GA,1,1,1,1,1
+Trumbull,OH,-1,-1,-1,-1,-1
+Turner,GA,1,1,1,1,-1
+Warren,IL,-1,1,1,-1,1
+Wasco,OR,-1,-1,-1,-1,-1
+Wilson,KS,-1,-1,-1,-1,-1
+Yakima,WA,-1,-1,-1,-1,-1
+Alexander,NC,-1,-1,-1,-1,-1
+Allen,OH,1,-1,1,1,1
+Arroyo Municipio,PR,0,0,0,0,0
+Attala,MS,1,1,1,1,1
+Aurora,SD,-1,-1,-1,-1,-1
+Bartow,GA,-1,-1,-1,-1,-1
+Bedford,VA,-1,-1,-1,-1,-1
+Bennett,SD,-1,1,-1,1,-1
+Benzie,MI,1,1,1,1,1
+Bottineau,ND,1,1,1,1,1
+Boundary,ID,-1,-1,-1,-1,1
+Brantley,GA,1,1,1,1,1
+Brown,IN,-1,-1,-1,-1,-1
+Caldwell,NC,-1,-1,-1,-1,-1
+Cedar,MO,1,1,1,1,1
+Ceiba Municipio,PR,0,0,0,0,0
+Chelan,WA,-1,1,-1,-1,1
+Chippewa,MI,1,1,1,1,1
+Claiborne,TN,-1,-1,-1,-1,-1
+Clearwater,ID,-1,-1,-1,-1,1
+Cleburne,AL,1,1,1,1,-1
+Cochise,AZ,-1,-1,-1,-1,-1
+Coleman,TX,1,1,1,1,1
+Cotton,OK,1,-1,1,1,-1
+Crawford,AR,1,1,1,1,1
+Crawford,PA,-1,-1,-1,-1,-1
+Culebra Municipio,PR,0,0,0,0,0
+Custer,SD,1,1,1,1,1
+Davison,SD,-1,-1,-1,-1,-1
+Dawes,NE,1,1,1,1,1
+DeWitt,TX,1,1,1,1,1
+Dickenson,VA,-1,-1,-1,-1,-1
+Drew,AR,1,1,1,1,1
+Falls Church city,VA,-1,-1,-1,-1,-1
+Finney,KS,1,1,1,1,1
+Fountain,IN,-1,1,-1,-1,-1
+Gallatin,IL,1,-1,1,-1,1
+Gove,KS,-1,-1,-1,-1,-1
+Grady,GA,1,1,1,-1,1
+Green,WI,-1,-1,-1,-1,-1
+Hancock,IA,1,-1,1,1,1
+Hancock,ME,1,1,1,1,1
+Hays,TX,1,1,1,1,1
+Hormigueros Municipio,PR,0,0,0,0,0
+Hot Spring,AR,1,1,1,1,1
+Hot Springs,WY,1,-1,-1,-1,-1
+Hunt,TX,-1,-1,-1,-1,-1
+Izard,AR,1,1,1,1,1
+Jackson,MO,1,1,1,1,1
+Jefferson,OH,1,1,1,1,1
+Johnston,OK,1,-1,1,1,1
+Jones,MS,1,-1,1,1,1
+Juncos Municipio,PR,0,0,0,0,0
+Keya Paha,NE,1,1,1,1,1
+King William,VA,1,1,1,1,1
+Kings,NY,0,0,0,0,0
+Liberty,FL,1,-1,0,1,-1
+Lincoln,KY,1,1,1,1,1
+Luce,MI,1,-1,1,-1,-1
+Madison Parish,LA,0,0,0,0,0
+Manassas Park city,VA,-1,-1,-1,-1,-1
+Maricao Municipio,PR,0,0,0,0,0
+Maricopa,AZ,-1,-1,-1,-1,-1
+Marinette,WI,-1,-1,-1,-1,-1
+Marshall,WV,-1,-1,-1,-1,-1
+McDonough,IL,1,-1,-1,1,1
+McIntosh,OK,1,1,1,1,1
+Miller,GA,-1,-1,-1,-1,-1
+Moody,SD,-1,1,-1,-1,-1
+Naranjito Municipio,PR,0,0,0,0,0
+Nelson,KY,1,1,1,1,1
+Ness,KS,-1,-1,-1,-1,-1
+Newton,TX,1,1,1,1,1
+Nueces,TX,1,1,1,1,1
+Ochiltree,TX,1,1,1,1,1
+Okaloosa,FL,-1,-1,-1,-1,-1
+Oswego,NY,-1,-1,-1,-1,-1
+Otero,CO,1,1,1,1,1
+Palm Beach,FL,-1,-1,-1,-1,-1
+Petersburg city,VA,1,1,1,1,1
+Phillips,CO,1,1,1,1,1
+Pine,MN,-1,-1,-1,-1,-1
+Queen Anne's,MD,-1,-1,-1,-1,-1
+Quitman,GA,-1,-1,-1,-1,-1
+Randolph,AL,-1,1,1,1,1
+Rockcastle,KY,1,1,1,1,1
+Río Grande Municipio,PR,0,0,0,0,0
+Sacramento,CA,1,1,1,1,-1
+Saguache,CO,1,1,1,1,1
+Sangamon,IL,1,1,1,1,1
+Scott,KY,1,1,1,1,1
+Shelby,TX,1,1,1,1,-1
+Southampton,VA,1,-1,-1,-1,-1
+Tishomingo,MS,1,1,1,1,-1
+Tom Green,TX,1,1,1,1,1
+Tuolumne,CA,-1,-1,1,1,-1
+Van Buren,TN,1,1,1,1,1
+Ventura,CA,-1,-1,-1,-1,-1
+Wake,NC,-1,-1,-1,-1,-1
+Wallace,KS,-1,-1,-1,-1,-1
+Washington,MN,1,1,1,1,1
+Wayne,NC,-1,-1,-1,-1,-1
+Wheeler,NE,1,1,1,1,1
+Wicomico,MD,1,1,1,1,1
+Will,IL,1,1,1,1,1
+Winneshiek,IA,1,1,1,1,1
+Winston,AL,1,1,1,1,1
+Woodbury,IA,1,1,1,1,1
+Wyoming,PA,1,1,1,1,1
+Yakutat City and Borough,AK,0,0,0,0,0
+Alcona,MI,-1,-1,1,1,1
+Allendale,SC,1,1,1,1,1
+Anne Arundel,MD,-1,-1,-1,-1,-1
+Anson,NC,-1,1,1,1,1
+Bayfield,WI,1,-1,-1,-1,-1
+Beadle,SD,-1,-1,-1,-1,-1
+Benton,TN,-1,1,-1,-1,-1
+Blaine,ID,-1,-1,-1,-1,1
+Broadwater,MT,-1,-1,-1,-1,-1
+Buena Vista city,VA,-1,-1,-1,-1,1
+Callahan,TX,1,1,1,1,1
+Carbon,UT,1,1,-1,-1,-1
+Carver,MN,1,1,1,1,1
+Chaffee,CO,1,1,1,1,1
+Clarendon,SC,1,1,1,1,1
+Clarke,MS,1,1,1,1,1
+Comanche,TX,1,0,1,1,1
+Cook,GA,-1,-1,-1,1,-1
+Cortland,NY,-1,-1,-1,-1,1
+Covington,AL,1,1,1,1,1
+Crawford,WI,-1,-1,-1,-1,-1
+Cumberland,PA,1,1,1,1,1
+Daviess,IN,-1,-1,-1,-1,-1
+Delaware,IN,-1,-1,-1,-1,-1
+Douglas,SD,1,1,1,1,1
+Edwards,KS,-1,-1,-1,-1,-1
+Escambia,AL,1,1,1,1,1
+Fayette,KY,1,1,1,1,1
+Ferry,WA,-1,-1,-1,-1,1
+Floyd,TX,1,-1,1,1,1
+Franklin,AR,1,-1,1,1,1
+Franklin,PA,1,1,1,1,1
+Frio,TX,1,1,1,1,1
+Gilliam,OR,-1,-1,-1,-1,-1
+Greenup,KY,-1,-1,-1,-1,-1
+Haines Borough,AK,-1,-1,-1,-1,-1
+Hale,TX,-1,1,1,1,-1
+Hancock,OH,1,1,1,1,-1
+Haskell,TX,1,1,1,1,1
+Jackson,IL,-1,-1,-1,-1,-1
+Jackson,OR,-1,-1,-1,-1,-1
+Jefferson,GA,1,1,1,1,1
+Jefferson,TN,-1,-1,-1,1,1
+Johnson,NE,1,1,1,1,1
+Kane,UT,-1,-1,-1,-1,-1
+Kearny,KS,-1,-1,-1,-1,-1
+Kinney,TX,1,1,1,1,1
+Lake,MN,-1,1,-1,-1,-1
+Lenoir,NC,1,1,1,1,1
+Liberty,MT,1,1,1,1,1
+Marquette,WI,-1,-1,-1,-1,-1
+Mason,KY,1,1,1,1,1
+McLean,KY,1,-1,1,-1,1
+Meagher,MT,-1,-1,-1,-1,-1
+Mitchell,GA,-1,-1,1,-1,1
+Monroe,KY,1,1,1,1,1
+Morrill,NE,1,1,1,1,1
+Nevada,AR,1,1,1,1,1
+Newton,IN,1,1,1,1,1
+Ogle,IL,-1,-1,-1,-1,1
+Okeechobee,FL,-1,-1,-1,-1,-1
+Oneida,WI,-1,-1,-1,-1,-1
+Osborne,KS,-1,-1,-1,-1,-1
+Pamlico,NC,-1,1,-1,1,-1
+Pendleton,WV,-1,-1,-1,-1,-1
+Pierce,GA,1,-1,1,-1,-1
+Pike,IN,1,1,-1,1,-1
+Prowers,CO,1,1,1,1,1
+Reeves,TX,1,-1,1,1,1
+Richland,OH,1,1,1,1,1
+Rock,NE,1,1,1,1,1
+San Juan,WA,1,-1,-1,-1,-1
+Santa Barbara,CA,-1,-1,-1,-1,-1
+Santa Cruz,AZ,1,1,1,1,1
+Schley,GA,1,1,1,1,1
+Schoolcraft,MI,1,1,1,1,1
+Seminole,GA,-1,0,-1,1,1
+Seneca,OH,-1,1,1,1,1
+Shelby,IN,-1,-1,-1,-1,-1
+Sherman,KS,1,-1,0,1,1
+St. Francis,AR,1,1,1,1,1
+Stevens,KS,-1,-1,-1,-1,-1
+Summit,UT,-1,1,-1,1,-1
+Talbot,GA,-1,-1,-1,1,-1
+Terrell,TX,1,1,1,1,1
+Tyler,TX,1,1,1,1,-1
+Union,NM,1,1,1,1,-1
+Upshur,WV,-1,-1,-1,-1,-1
+Vance,NC,1,1,1,1,1
+Warren,IN,-1,-1,-1,-1,-1
+Washington,MO,1,1,1,1,-1
+Windsor,VT,-1,-1,-1,-1,-1
+Wood,WV,1,-1,-1,-1,-1
+Adair,IA,1,-1,1,-1,-1
+Alcorn,MS,-1,1,1,1,-1
+Alexandria city,VA,-1,-1,-1,-1,-1
+Arkansas,AR,1,1,1,1,1
+Armstrong,TX,-1,1,1,-1,1
+Ashland,WI,-1,-1,-1,-1,-1
+Barrow,GA,-1,-1,-1,-1,-1
+Bartholomew,IN,1,1,1,1,1
+Bastrop,TX,1,1,1,1,1
+Beaufort,NC,1,1,1,1,1
+Bibb,GA,1,1,1,1,1
+Blaine,OK,1,1,1,1,1
+Blair,PA,1,1,1,1,1
+Bourbon,KS,-1,-1,-1,-1,-1
+Bremer,IA,1,1,1,1,1
+Brunswick,NC,1,1,-1,-1,-1
+Butler,AL,1,-1,1,1,1
+Calhoun,WV,-1,-1,-1,-1,-1
+Cameron Parish,LA,0,0,0,0,0
+Canyon,ID,1,-1,-1,-1,-1
+Carlisle,KY,1,-1,1,1,1
+Carroll,MO,1,1,1,1,1
+Charles Mix,SD,1,0,1,1,1
+Cheshire,NH,1,1,1,1,1
+Cheyenne,CO,1,1,1,1,-1
+Clare,MI,1,1,1,1,1
+Clark,MO,1,1,1,1,1
+Collin,TX,-1,-1,-1,-1,-1
+Coos,OR,-1,-1,-1,-1,-1
+Coweta,GA,-1,-1,-1,-1,-1
+Cowley,KS,-1,-1,-1,-1,-1
+Cross,AR,1,1,1,1,1
+Dakota,MN,1,1,1,1,1
+Dallas,MO,1,-1,1,1,1
+Del Norte,CA,-1,1,-1,-1,1
+Douglas,WI,1,1,1,1,1
+Fauquier,VA,-1,-1,-1,-1,-1
+Floyd,IN,1,1,1,1,1
+Gibson,IN,-1,-1,-1,-1,-1
+Golden Valley,MT,1,1,1,1,1
+Grady,OK,-1,-1,-1,-1,1
+Greene,NC,1,1,1,1,1
+Guadalupe,NM,-1,-1,1,1,1
+Hancock,GA,1,1,1,1,1
+Hancock,TN,-1,-1,-1,-1,-1
+Hardin,IL,1,1,1,1,1
+Hardy,WV,-1,-1,-1,-1,-1
+Hart,KY,-1,1,1,1,1
+Henderson,IL,1,1,1,1,1
+Holt,MO,1,1,1,1,1
+Jackson,TX,1,1,1,1,-1
+Jefferson,ID,-1,-1,-1,-1,-1
+Jersey,IL,1,1,1,1,1
+Jim Wells,TX,1,1,1,1,1
+Johnson,IA,-1,-1,-1,-1,-1
+Juab,UT,-1,-1,-1,-1,-1
+Kaufman,TX,-1,-1,-1,-1,-1
+King and Queen,VA,-1,-1,-1,1,-1
+King,WA,-1,-1,-1,-1,-1
+Kiowa,CO,1,1,1,1,1
+Lamar,GA,-1,-1,-1,1,-1
+Lauderdale,TN,-1,1,-1,0,-1
+Lawrence,KY,1,1,1,1,1
+Leavenworth,KS,1,1,1,1,1
+Lenawee,MI,1,1,1,1,1
+Litchfield,CT,-1,1,1,-1,-1
+Livingston,MI,1,1,1,1,1
+Lonoke,AR,1,1,1,1,1
+Louisa,IA,1,1,1,1,1
+Malheur,OR,-1,-1,-1,-1,-1
+Manitowoc,WI,-1,-1,-1,-1,-1
+Marshall,MN,1,1,1,-1,-1
+Martin,KY,1,-1,1,1,1
+McCook,SD,1,1,1,1,1
+McPherson,KS,-1,-1,-1,-1,-1
+Midland,TX,1,1,1,1,-1
+Montgomery,MO,1,1,1,1,1
+Morton,ND,-1,-1,-1,-1,-1
+Natrona,WY,-1,-1,-1,-1,-1
+Nemaha,NE,-1,1,1,1,1
+Newton,MS,1,1,1,1,1
+Nodaway,MO,1,1,1,1,1
+Olmsted,MN,-1,-1,-1,-1,-1
+Paulding,OH,1,1,1,1,1
+Peoria,IL,1,1,1,1,1
+Perkins,SD,-1,-1,-1,-1,-1
+Petersburg Census Area,AK,0,0,0,0,0
+Pickens,GA,-1,-1,-1,-1,-1
+Pike,MS,1,-1,0,-1,1
+Placer,CA,1,1,1,1,-1
+Polk,AR,1,1,1,1,1
+Presidio,TX,1,-1,1,1,1
+Prince of Wales-Hyder Census Area,AK,-1,-1,-1,-1,-1
+Somerset,MD,1,1,1,1,-1
+St. Charles,MO,1,1,1,1,1
+St. Johns,FL,-1,-1,-1,-1,-1
+Stanislaus,CA,1,1,1,1,1
+Steuben,NY,-1,1,1,1,1
+Thomas,NE,1,1,1,1,1
+Todd,KY,1,1,1,1,1
+Van Buren,MI,1,-1,1,-1,1
+Vermilion Parish,LA,0,0,0,0,0
+Vieques Municipio,PR,0,0,0,0,0
+Warren,MS,1,1,1,1,1
+Washington,IL,1,1,1,1,-1
+Washington,OR,-1,-1,-1,-1,-1
+Washoe,NV,1,1,1,1,1
+Wayne,NE,1,1,1,1,-1
+Wells,ND,1,1,1,-1,-1
+West Baton Rouge Parish,LA,0,0,0,0,0
+White,GA,1,1,1,1,1
+White,TN,-1,-1,-1,-1,-1
+Wibaux,MT,-1,-1,-1,-1,-1
+Woodward,OK,1,1,1,1,1
+Wright,IA,-1,1,1,1,1
+Yates,NY,1,1,1,1,1
+Adams,ND,-1,-1,1,1,-1
+Atlantic,NJ,1,1,1,1,1
+Baraga,MI,-1,1,1,1,1
+Barron,WI,-1,-1,-1,-1,-1
+Bertie,NC,-1,-1,1,1,1
+Bon Homme,SD,-1,1,-1,1,1
+Brewster,TX,1,1,1,1,1
+Brown,KS,-1,-1,-1,-1,-1
+Carroll,IL,-1,-1,-1,-1,1
+Caswell,NC,-1,-1,1,1,1
+Chattahoochee,GA,1,1,1,1,1
+Chickasaw,MS,1,1,1,1,1
+Clark,IL,-1,-1,-1,-1,-1
+Clay,NC,1,1,1,1,1
+Coryell,TX,1,1,1,1,1
+De Witt,IL,-1,-1,1,1,1
+Dewey,OK,1,1,1,1,1
+Dimmit,TX,-1,-1,-1,-1,-1
+Fairfax,VA,-1,-1,-1,-1,-1
+Fond du Lac,WI,1,1,1,1,1
+Forest,PA,-1,-1,-1,-1,1
+Forsyth,NC,1,1,1,1,1
+Frederick,VA,-1,-1,-1,-1,-1
+Grant Parish,LA,0,0,0,0,0
+Grant,KY,1,1,1,1,1
+Guam,GU,0,0,0,0,0
+Hamlin,SD,-1,-1,-1,1,-1
+Hanson,SD,-1,-1,-1,-1,-1
+Hardin,TX,1,1,1,1,1
+Henderson,TX,1,1,1,1,1
+Hennepin,MN,1,1,1,1,1
+Hoke,NC,1,1,1,1,1
+Howard,MD,-1,-1,-1,-1,-1
+Howard,NE,1,1,1,1,-1
+Ida,IA,1,0,1,-1,1
+Iron,MI,1,-1,1,1,-1
+Iroquois,IL,1,1,1,1,1
+Jackson,IN,-1,1,-1,1,-1
+Jefferson,OK,1,1,1,1,1
+Josephine,OR,-1,-1,-1,-1,-1
+Juneau City and Borough,AK,-1,-1,-1,-1,-1
+Kendall,IL,1,1,1,1,-1
+Lake,IL,1,1,1,1,1
+Lake,OR,-1,-1,-1,-1,-1
+Lancaster,NE,-1,-1,-1,-1,-1
+Lewis,TN,-1,-1,-1,1,-1
+Lincoln,AR,1,1,1,1,-1
+Lincoln,SD,1,1,1,1,1
+Logan,IL,-1,-1,-1,-1,-1
+Los Alamos,NM,1,1,1,1,1
+Madison,AL,1,1,1,1,1
+Madison,NY,-1,-1,-1,-1,-1
+Madison,VA,-1,1,-1,-1,-1
+Mathews,VA,-1,-1,-1,-1,-1
+Maury,TN,-1,1,1,1,1
+McKean,PA,1,1,1,1,1
+Medina,TX,1,1,1,1,1
+Miner,SD,-1,-1,-1,-1,-1
+Montgomery,IL,1,-1,-1,-1,-1
+Newport News city,VA,-1,-1,-1,-1,-1
+Northumberland,PA,-1,1,1,1,1
+Owen,IN,1,1,1,1,1
+Oxford,ME,1,1,1,1,1
+Passaic,NJ,1,1,1,1,1
+Paulding,GA,-1,-1,-1,-1,-1
+Pawnee,OK,-1,1,-1,-1,-1
+Pecos,TX,-1,1,1,1,1
+Pepin,WI,-1,1,1,-1,1
+Perquimans,NC,1,1,1,1,1
+Piute,UT,1,1,1,-1,1
+Polk,WI,-1,-1,-1,-1,-1
+Putnam,WV,-1,-1,-1,-1,-1
+Reno,KS,0,-1,0,1,-1
+Rockingham,VA,1,1,-1,1,-1
+San Juan,CO,1,1,1,1,1
+Scott,AR,1,1,1,1,1
+Seminole,OK,1,1,1,1,1
+Somerset,ME,1,1,1,1,1
+Spalding,GA,-1,-1,-1,-1,-1
+Spotsylvania,VA,-1,-1,-1,-1,-1
+Stanton,NE,1,1,1,1,1
+Stevens,WA,1,1,1,1,1
+Washington,TX,1,1,1,1,1
+Wayne,IA,1,1,1,-1,1
+Weakley,TN,1,-1,-1,-1,-1
+Weston,WY,-1,1,-1,-1,-1
+Wheeler,GA,1,1,1,1,1
+Williamson,IL,-1,-1,-1,-1,1
+Winchester city,VA,-1,-1,-1,-1,-1
+Windham,VT,-1,-1,-1,-1,-1
